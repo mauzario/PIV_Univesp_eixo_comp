@@ -1,0 +1,2257 @@
+Ramo,Areaespecifica,risco_fechamento,diagnostico,total_empresas,empresas_fechadas
+Adult Retail Store *Historic*,Arbutus-Ridge,9.4,BAIXO RISCO,2373,84.0
+Adult Retail Store *Historic*,Downtown,9.9,BAIXO RISCO,41071,1217.0
+Adult Retail Store *Historic*,Dunbar-Southlands,8.3,BAIXO RISCO,2993,123.0
+Adult Retail Store *Historic*,Fairview,22.2,BAIXO RISCO,13609,329.0
+Adult Retail Store *Historic*,Grandview-Woodland,4.4,BAIXO RISCO,7426,243.0
+Adult Retail Store *Historic*,Hastings-Sunrise,15.9,BAIXO RISCO,5798,202.0
+Adult Retail Store *Historic*,Kensington-Cedar Cottage,18.1,BAIXO RISCO,9124,307.0
+Adult Retail Store *Historic*,Kerrisdale,12.3,BAIXO RISCO,2320,74.0
+Adult Retail Store *Historic*,Killarney,12.7,BAIXO RISCO,3121,93.0
+Adult Retail Store *Historic*,Kitsilano,20.9,BAIXO RISCO,11491,318.0
+Adult Retail Store *Historic*,Marpole,27.7,BAIXO RISCO,6010,213.0
+Adult Retail Store *Historic*,Mount Pleasant,9.2,BAIXO RISCO,10967,351.0
+Adult Retail Store *Historic*,Oakridge,18.8,BAIXO RISCO,1889,79.0
+Adult Retail Store *Historic*,Out of Town,17.4,BAIXO RISCO,2234,78.0
+Adult Retail Store *Historic*,Renfrew-Collingwood,20.7,BAIXO RISCO,7367,242.0
+Adult Retail Store *Historic*,Riley Park,6.0,BAIXO RISCO,5628,186.0
+Adult Retail Store *Historic*,Shaughnessy,11.9,BAIXO RISCO,1194,60.0
+Adult Retail Store *Historic*,South Cambie,6.5,BAIXO RISCO,1863,58.0
+Adult Retail Store *Historic*,Strathcona,29.4,BAIXO RISCO,5441,225.0
+Adult Retail Store *Historic*,Sunset,17.8,BAIXO RISCO,6421,212.0
+Adult Retail Store *Historic*,UBC,7.9,BAIXO RISCO,32,1.0
+Adult Retail Store *Historic*,Victoria-Fraserview,71.9,ALTO RISCO,3604,137.0
+Adult Retail Store *Historic*,West End,6.7,BAIXO RISCO,9238,271.0
+Adult Retail Store *Historic*,West Point Grey,10.1,BAIXO RISCO,2158,91.0
+Adult Services,Arbutus-Ridge,11.0,BAIXO RISCO,2373,84.0
+Adult Services,Downtown,13.1,BAIXO RISCO,41071,1217.0
+Adult Services,Dunbar-Southlands,7.2,BAIXO RISCO,2993,123.0
+Adult Services,Fairview,23.7,BAIXO RISCO,13609,329.0
+Adult Services,Grandview-Woodland,16.6,BAIXO RISCO,7426,243.0
+Adult Services,Hastings-Sunrise,15.4,BAIXO RISCO,5798,202.0
+Adult Services,Kensington-Cedar Cottage,20.1,BAIXO RISCO,9124,307.0
+Adult Services,Kerrisdale,13.2,BAIXO RISCO,2320,74.0
+Adult Services,Killarney,13.0,BAIXO RISCO,3121,93.0
+Adult Services,Kitsilano,23.4,BAIXO RISCO,11491,318.0
+Adult Services,Marpole,33.7,BAIXO RISCO,6010,213.0
+Adult Services,Mount Pleasant,29.1,BAIXO RISCO,10967,351.0
+Adult Services,Oakridge,17.8,BAIXO RISCO,1889,79.0
+Adult Services,Out of Town,22.2,BAIXO RISCO,2234,78.0
+Adult Services,Renfrew-Collingwood,22.7,BAIXO RISCO,7367,242.0
+Adult Services,Riley Park,17.2,BAIXO RISCO,5628,186.0
+Adult Services,Shaughnessy,12.4,BAIXO RISCO,1194,60.0
+Adult Services,South Cambie,17.2,BAIXO RISCO,1863,58.0
+Adult Services,Strathcona,30.0,BAIXO RISCO,5441,225.0
+Adult Services,Sunset,21.1,BAIXO RISCO,6421,212.0
+Adult Services,UBC,7.6,BAIXO RISCO,32,1.0
+Adult Services,Victoria-Fraserview,24.4,BAIXO RISCO,3604,137.0
+Adult Services,West End,21.2,BAIXO RISCO,9238,271.0
+Adult Services,West Point Grey,10.4,BAIXO RISCO,2158,91.0
+Amusement Park,Arbutus-Ridge,10.3,BAIXO RISCO,2373,84.0
+Amusement Park,Downtown,30.6,BAIXO RISCO,41071,1217.0
+Amusement Park,Dunbar-Southlands,7.0,BAIXO RISCO,2993,123.0
+Amusement Park,Fairview,22.9,BAIXO RISCO,13609,329.0
+Amusement Park,Grandview-Woodland,15.4,BAIXO RISCO,7426,243.0
+Amusement Park,Hastings-Sunrise,0.4,BAIXO RISCO,5798,202.0
+Amusement Park,Kensington-Cedar Cottage,19.6,BAIXO RISCO,9124,307.0
+Amusement Park,Kerrisdale,12.4,BAIXO RISCO,2320,74.0
+Amusement Park,Killarney,12.1,BAIXO RISCO,3121,93.0
+Amusement Park,Kitsilano,22.7,BAIXO RISCO,11491,318.0
+Amusement Park,Marpole,33.1,BAIXO RISCO,6010,213.0
+Amusement Park,Mount Pleasant,27.4,BAIXO RISCO,10967,351.0
+Amusement Park,Oakridge,17.8,BAIXO RISCO,1889,79.0
+Amusement Park,Out of Town,20.7,BAIXO RISCO,2234,78.0
+Amusement Park,Renfrew-Collingwood,21.8,BAIXO RISCO,7367,242.0
+Amusement Park,Riley Park,16.3,BAIXO RISCO,5628,186.0
+Amusement Park,Shaughnessy,11.5,BAIXO RISCO,1194,60.0
+Amusement Park,South Cambie,16.0,BAIXO RISCO,1863,58.0
+Amusement Park,Strathcona,29.3,BAIXO RISCO,5441,225.0
+Amusement Park,Sunset,20.4,BAIXO RISCO,6421,212.0
+Amusement Park,UBC,6.0,BAIXO RISCO,32,1.0
+Amusement Park,Victoria-Fraserview,22.8,BAIXO RISCO,3604,137.0
+Amusement Park,West End,19.5,BAIXO RISCO,9238,271.0
+Amusement Park,West Point Grey,10.1,BAIXO RISCO,2158,91.0
+Animal Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Animal Services,Downtown,32.3,BAIXO RISCO,41071,1217.0
+Animal Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Animal Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Animal Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Animal Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Animal Services,Kensington-Cedar Cottage,61.2,ALTO RISCO,9124,307.0
+Animal Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Animal Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Animal Services,Kitsilano,24.2,BAIXO RISCO,11491,318.0
+Animal Services,Marpole,50.2,ALTO RISCO,6010,213.0
+Animal Services,Mount Pleasant,61.0,ALTO RISCO,10967,351.0
+Animal Services,Oakridge,61.2,ALTO RISCO,1889,79.0
+Animal Services,Out of Town,55.0,ALTO RISCO,2234,78.0
+Animal Services,Renfrew-Collingwood,39.9,BAIXO RISCO,7367,242.0
+Animal Services,Riley Park,40.0,BAIXO RISCO,5628,186.0
+Animal Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Animal Services,South Cambie,48.6,BAIXO RISCO,1863,58.0
+Animal Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Animal Services,Sunset,45.3,BAIXO RISCO,6421,212.0
+Animal Services,UBC,16.0,BAIXO RISCO,32,1.0
+Animal Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Animal Services,West End,32.1,BAIXO RISCO,9238,271.0
+Animal Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Architectural and Engineering Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Architectural and Engineering Services,Downtown,31.8,BAIXO RISCO,41071,1217.0
+Architectural and Engineering Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Architectural and Engineering Services,Fairview,38.2,BAIXO RISCO,13609,329.0
+Architectural and Engineering Services,Grandview-Woodland,38.1,BAIXO RISCO,7426,243.0
+Architectural and Engineering Services,Hastings-Sunrise,61.3,ALTO RISCO,5798,202.0
+Architectural and Engineering Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Architectural and Engineering Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Architectural and Engineering Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Architectural and Engineering Services,Kitsilano,31.7,BAIXO RISCO,11491,318.0
+Architectural and Engineering Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Architectural and Engineering Services,Mount Pleasant,19.6,BAIXO RISCO,10967,351.0
+Architectural and Engineering Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Architectural and Engineering Services,Out of Town,25.7,BAIXO RISCO,2234,78.0
+Architectural and Engineering Services,Renfrew-Collingwood,32.0,BAIXO RISCO,7367,242.0
+Architectural and Engineering Services,Riley Park,30.9,BAIXO RISCO,5628,186.0
+Architectural and Engineering Services,Shaughnessy,1.0,BAIXO RISCO,1194,60.0
+Architectural and Engineering Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Architectural and Engineering Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Architectural and Engineering Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Architectural and Engineering Services,UBC,14.0,BAIXO RISCO,32,1.0
+Architectural and Engineering Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Architectural and Engineering Services,West End,56.8,ALTO RISCO,9238,271.0
+Architectural and Engineering Services,West Point Grey,47.7,BAIXO RISCO,2158,91.0
+Artist,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Artist,Downtown,64.3,ALTO RISCO,41071,1217.0
+Artist,Dunbar-Southlands,68.9,ALTO RISCO,2993,123.0
+Artist,Fairview,0.0,BAIXO RISCO,13609,329.0
+Artist,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Artist,Hastings-Sunrise,32.1,BAIXO RISCO,5798,202.0
+Artist,Kensington-Cedar Cottage,66.5,ALTO RISCO,9124,307.0
+Artist,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Artist,Killarney,57.0,ALTO RISCO,3121,93.0
+Artist,Kitsilano,21.1,BAIXO RISCO,11491,318.0
+Artist,Marpole,41.6,BAIXO RISCO,6010,213.0
+Artist,Mount Pleasant,77.0,ALTO RISCO,10967,351.0
+Artist,Oakridge,57.7,ALTO RISCO,1889,79.0
+Artist,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Artist,Renfrew-Collingwood,32.9,BAIXO RISCO,7367,242.0
+Artist,Riley Park,62.6,ALTO RISCO,5628,186.0
+Artist,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Artist,South Cambie,55.2,ALTO RISCO,1863,58.0
+Artist,Strathcona,64.2,ALTO RISCO,5441,225.0
+Artist,Sunset,41.1,BAIXO RISCO,6421,212.0
+Artist,UBC,35.0,BAIXO RISCO,32,1.0
+Artist,Victoria-Fraserview,76.0,ALTO RISCO,3604,137.0
+Artist,West End,46.8,BAIXO RISCO,9238,271.0
+Artist,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Artist Agency,Arbutus-Ridge,13.1,BAIXO RISCO,2373,84.0
+Artist Agency,Downtown,37.7,BAIXO RISCO,41071,1217.0
+Artist Agency,Dunbar-Southlands,10.6,BAIXO RISCO,2993,123.0
+Artist Agency,Fairview,0.0,BAIXO RISCO,13609,329.0
+Artist Agency,Grandview-Woodland,15.8,BAIXO RISCO,7426,243.0
+Artist Agency,Hastings-Sunrise,2.4,BAIXO RISCO,5798,202.0
+Artist Agency,Kensington-Cedar Cottage,20.1,BAIXO RISCO,9124,307.0
+Artist Agency,Kerrisdale,15.3,BAIXO RISCO,2320,74.0
+Artist Agency,Killarney,1.5,BAIXO RISCO,3121,93.0
+Artist Agency,Kitsilano,59.7,ALTO RISCO,11491,318.0
+Artist Agency,Marpole,32.1,BAIXO RISCO,6010,213.0
+Artist Agency,Mount Pleasant,63.8,ALTO RISCO,10967,351.0
+Artist Agency,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Artist Agency,Out of Town,18.4,BAIXO RISCO,2234,78.0
+Artist Agency,Renfrew-Collingwood,20.4,BAIXO RISCO,7367,242.0
+Artist Agency,Riley Park,16.8,BAIXO RISCO,5628,186.0
+Artist Agency,Shaughnessy,2.0,BAIXO RISCO,1194,60.0
+Artist Agency,South Cambie,15.9,BAIXO RISCO,1863,58.0
+Artist Agency,Strathcona,10.1,BAIXO RISCO,5441,225.0
+Artist Agency,Sunset,20.9,BAIXO RISCO,6421,212.0
+Artist Agency,UBC,14.3,BAIXO RISCO,32,1.0
+Artist Agency,Victoria-Fraserview,22.4,BAIXO RISCO,3604,137.0
+Artist Agency,West End,0.0,BAIXO RISCO,9238,271.0
+Artist Agency,West Point Grey,11.2,BAIXO RISCO,2158,91.0
+Artist Studio,Arbutus-Ridge,31.3,BAIXO RISCO,2373,84.0
+Artist Studio,Downtown,55.1,ALTO RISCO,41071,1217.0
+Artist Studio,Dunbar-Southlands,32.0,BAIXO RISCO,2993,123.0
+Artist Studio,Fairview,50.1,ALTO RISCO,13609,329.0
+Artist Studio,Grandview-Woodland,73.8,ALTO RISCO,7426,243.0
+Artist Studio,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Artist Studio,Kensington-Cedar Cottage,35.6,BAIXO RISCO,9124,307.0
+Artist Studio,Kerrisdale,13.8,BAIXO RISCO,2320,74.0
+Artist Studio,Killarney,5.2,BAIXO RISCO,3121,93.0
+Artist Studio,Kitsilano,5.1,BAIXO RISCO,11491,318.0
+Artist Studio,Marpole,70.9,ALTO RISCO,6010,213.0
+Artist Studio,Mount Pleasant,60.4,ALTO RISCO,10967,351.0
+Artist Studio,Oakridge,27.9,BAIXO RISCO,1889,79.0
+Artist Studio,Out of Town,38.1,BAIXO RISCO,2234,78.0
+Artist Studio,Renfrew-Collingwood,37.9,BAIXO RISCO,7367,242.0
+Artist Studio,Riley Park,34.9,BAIXO RISCO,5628,186.0
+Artist Studio,Shaughnessy,33.1,BAIXO RISCO,1194,60.0
+Artist Studio,South Cambie,35.7,BAIXO RISCO,1863,58.0
+Artist Studio,Strathcona,60.6,ALTO RISCO,5441,225.0
+Artist Studio,Sunset,17.3,BAIXO RISCO,6421,212.0
+Artist Studio,UBC,35.2,BAIXO RISCO,32,1.0
+Artist Studio,Victoria-Fraserview,33.7,BAIXO RISCO,3604,137.0
+Artist Studio,West End,36.2,BAIXO RISCO,9238,271.0
+Artist Studio,West Point Grey,73.8,ALTO RISCO,2158,91.0
+Arts and Creative Instruction,Arbutus-Ridge,37.2,BAIXO RISCO,2373,84.0
+Arts and Creative Instruction,Downtown,55.1,ALTO RISCO,41071,1217.0
+Arts and Creative Instruction,Dunbar-Southlands,28.8,BAIXO RISCO,2993,123.0
+Arts and Creative Instruction,Fairview,36.7,BAIXO RISCO,13609,329.0
+Arts and Creative Instruction,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Arts and Creative Instruction,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Arts and Creative Instruction,Kensington-Cedar Cottage,63.4,ALTO RISCO,9124,307.0
+Arts and Creative Instruction,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Arts and Creative Instruction,Killarney,46.1,BAIXO RISCO,3121,93.0
+Arts and Creative Instruction,Kitsilano,36.4,BAIXO RISCO,11491,318.0
+Arts and Creative Instruction,Marpole,51.6,ALTO RISCO,6010,213.0
+Arts and Creative Instruction,Mount Pleasant,78.3,ALTO RISCO,10967,351.0
+Arts and Creative Instruction,Oakridge,57.2,ALTO RISCO,1889,79.0
+Arts and Creative Instruction,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Arts and Creative Instruction,Renfrew-Collingwood,60.9,ALTO RISCO,7367,242.0
+Arts and Creative Instruction,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Arts and Creative Instruction,Shaughnessy,3.5,BAIXO RISCO,1194,60.0
+Arts and Creative Instruction,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Arts and Creative Instruction,Strathcona,91.9,ALTO RISCO,5441,225.0
+Arts and Creative Instruction,Sunset,60.5,ALTO RISCO,6421,212.0
+Arts and Creative Instruction,UBC,22.1,BAIXO RISCO,32,1.0
+Arts and Creative Instruction,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Arts and Creative Instruction,West End,0.0,BAIXO RISCO,9238,271.0
+Arts and Creative Instruction,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Association or Society,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Association or Society,Downtown,42.7,BAIXO RISCO,41071,1217.0
+Association or Society,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Association or Society,Fairview,17.9,BAIXO RISCO,13609,329.0
+Association or Society,Grandview-Woodland,34.9,BAIXO RISCO,7426,243.0
+Association or Society,Hastings-Sunrise,25.1,BAIXO RISCO,5798,202.0
+Association or Society,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Association or Society,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Association or Society,Killarney,0.0,BAIXO RISCO,3121,93.0
+Association or Society,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Association or Society,Marpole,0.0,BAIXO RISCO,6010,213.0
+Association or Society,Mount Pleasant,15.7,BAIXO RISCO,10967,351.0
+Association or Society,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Association or Society,Out of Town,0.6,BAIXO RISCO,2234,78.0
+Association or Society,Renfrew-Collingwood,21.6,BAIXO RISCO,7367,242.0
+Association or Society,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Association or Society,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Association or Society,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Association or Society,Strathcona,28.2,BAIXO RISCO,5441,225.0
+Association or Society,Sunset,72.4,ALTO RISCO,6421,212.0
+Association or Society,UBC,9.3,BAIXO RISCO,32,1.0
+Association or Society,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Association or Society,West End,28.8,BAIXO RISCO,9238,271.0
+Association or Society,West Point Grey,0.1,BAIXO RISCO,2158,91.0
+Beauty Services,Arbutus-Ridge,27.7,BAIXO RISCO,2373,84.0
+Beauty Services,Downtown,61.0,ALTO RISCO,41071,1217.0
+Beauty Services,Dunbar-Southlands,75.7,ALTO RISCO,2993,123.0
+Beauty Services,Fairview,62.5,ALTO RISCO,13609,329.0
+Beauty Services,Grandview-Woodland,47.7,BAIXO RISCO,7426,243.0
+Beauty Services,Hastings-Sunrise,41.6,BAIXO RISCO,5798,202.0
+Beauty Services,Kensington-Cedar Cottage,52.9,ALTO RISCO,9124,307.0
+Beauty Services,Kerrisdale,63.0,ALTO RISCO,2320,74.0
+Beauty Services,Killarney,61.3,ALTO RISCO,3121,93.0
+Beauty Services,Kitsilano,44.9,BAIXO RISCO,11491,318.0
+Beauty Services,Marpole,56.9,ALTO RISCO,6010,213.0
+Beauty Services,Mount Pleasant,24.6,BAIXO RISCO,10967,351.0
+Beauty Services,Oakridge,76.0,ALTO RISCO,1889,79.0
+Beauty Services,Out of Town,63.4,ALTO RISCO,2234,78.0
+Beauty Services,Renfrew-Collingwood,52.7,ALTO RISCO,7367,242.0
+Beauty Services,Riley Park,28.7,BAIXO RISCO,5628,186.0
+Beauty Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Beauty Services,South Cambie,67.2,ALTO RISCO,1863,58.0
+Beauty Services,Strathcona,68.4,ALTO RISCO,5441,225.0
+Beauty Services,Sunset,54.1,ALTO RISCO,6421,212.0
+Beauty Services,UBC,48.2,BAIXO RISCO,32,1.0
+Beauty Services,Victoria-Fraserview,64.0,ALTO RISCO,3604,137.0
+Beauty Services,West End,56.8,ALTO RISCO,9238,271.0
+Beauty Services,West Point Grey,73.2,ALTO RISCO,2158,91.0
+Bed and Breakfast,Arbutus-Ridge,68.2,ALTO RISCO,2373,84.0
+Bed and Breakfast,Downtown,32.3,BAIXO RISCO,41071,1217.0
+Bed and Breakfast,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Bed and Breakfast,Fairview,89.0,ALTO RISCO,13609,329.0
+Bed and Breakfast,Grandview-Woodland,27.6,BAIXO RISCO,7426,243.0
+Bed and Breakfast,Hastings-Sunrise,74.1,ALTO RISCO,5798,202.0
+Bed and Breakfast,Kensington-Cedar Cottage,55.5,ALTO RISCO,9124,307.0
+Bed and Breakfast,Kerrisdale,27.8,BAIXO RISCO,2320,74.0
+Bed and Breakfast,Killarney,28.1,BAIXO RISCO,3121,93.0
+Bed and Breakfast,Kitsilano,72.6,ALTO RISCO,11491,318.0
+Bed and Breakfast,Marpole,55.8,ALTO RISCO,6010,213.0
+Bed and Breakfast,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Bed and Breakfast,Oakridge,5.5,BAIXO RISCO,1889,79.0
+Bed and Breakfast,Out of Town,29.1,BAIXO RISCO,2234,78.0
+Bed and Breakfast,Renfrew-Collingwood,12.5,BAIXO RISCO,7367,242.0
+Bed and Breakfast,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Bed and Breakfast,Shaughnessy,4.1,BAIXO RISCO,1194,60.0
+Bed and Breakfast,South Cambie,1.4,BAIXO RISCO,1863,58.0
+Bed and Breakfast,Strathcona,33.0,BAIXO RISCO,5441,225.0
+Bed and Breakfast,Sunset,3.4,BAIXO RISCO,6421,212.0
+Bed and Breakfast,UBC,31.3,BAIXO RISCO,32,1.0
+Bed and Breakfast,Victoria-Fraserview,59.7,ALTO RISCO,3604,137.0
+Bed and Breakfast,West End,53.3,ALTO RISCO,9238,271.0
+Bed and Breakfast,West Point Grey,0.3,BAIXO RISCO,2158,91.0
+Bingo Hall / Casino / Horse Racing,Arbutus-Ridge,9.0,BAIXO RISCO,2373,84.0
+Bingo Hall / Casino / Horse Racing,Downtown,3.9,BAIXO RISCO,41071,1217.0
+Bingo Hall / Casino / Horse Racing,Dunbar-Southlands,5.7,BAIXO RISCO,2993,123.0
+Bingo Hall / Casino / Horse Racing,Fairview,20.7,BAIXO RISCO,13609,329.0
+Bingo Hall / Casino / Horse Racing,Grandview-Woodland,12.7,BAIXO RISCO,7426,243.0
+Bingo Hall / Casino / Horse Racing,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Bingo Hall / Casino / Horse Racing,Kensington-Cedar Cottage,17.8,BAIXO RISCO,9124,307.0
+Bingo Hall / Casino / Horse Racing,Kerrisdale,10.0,BAIXO RISCO,2320,74.0
+Bingo Hall / Casino / Horse Racing,Killarney,10.0,BAIXO RISCO,3121,93.0
+Bingo Hall / Casino / Horse Racing,Kitsilano,18.4,BAIXO RISCO,11491,318.0
+Bingo Hall / Casino / Horse Racing,Marpole,31.6,BAIXO RISCO,6010,213.0
+Bingo Hall / Casino / Horse Racing,Mount Pleasant,1.1,BAIXO RISCO,10967,351.0
+Bingo Hall / Casino / Horse Racing,Oakridge,17.3,BAIXO RISCO,1889,79.0
+Bingo Hall / Casino / Horse Racing,Out of Town,19.1,BAIXO RISCO,2234,78.0
+Bingo Hall / Casino / Horse Racing,Renfrew-Collingwood,18.3,BAIXO RISCO,7367,242.0
+Bingo Hall / Casino / Horse Racing,Riley Park,14.8,BAIXO RISCO,5628,186.0
+Bingo Hall / Casino / Horse Racing,Shaughnessy,9.8,BAIXO RISCO,1194,60.0
+Bingo Hall / Casino / Horse Racing,South Cambie,12.6,BAIXO RISCO,1863,58.0
+Bingo Hall / Casino / Horse Racing,Strathcona,27.6,BAIXO RISCO,5441,225.0
+Bingo Hall / Casino / Horse Racing,Sunset,16.7,BAIXO RISCO,6421,212.0
+Bingo Hall / Casino / Horse Racing,UBC,5.3,BAIXO RISCO,32,1.0
+Bingo Hall / Casino / Horse Racing,Victoria-Fraserview,21.0,BAIXO RISCO,3604,137.0
+Bingo Hall / Casino / Horse Racing,West End,15.3,BAIXO RISCO,9238,271.0
+Bingo Hall / Casino / Horse Racing,West Point Grey,8.8,BAIXO RISCO,2158,91.0
+Brokerage Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Brokerage Services,Downtown,38.7,BAIXO RISCO,41071,1217.0
+Brokerage Services,Dunbar-Southlands,4.7,BAIXO RISCO,2993,123.0
+Brokerage Services,Fairview,48.7,BAIXO RISCO,13609,329.0
+Brokerage Services,Grandview-Woodland,3.6,BAIXO RISCO,7426,243.0
+Brokerage Services,Hastings-Sunrise,58.2,ALTO RISCO,5798,202.0
+Brokerage Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Brokerage Services,Kerrisdale,56.3,ALTO RISCO,2320,74.0
+Brokerage Services,Killarney,44.1,BAIXO RISCO,3121,93.0
+Brokerage Services,Kitsilano,41.2,BAIXO RISCO,11491,318.0
+Brokerage Services,Marpole,60.1,ALTO RISCO,6010,213.0
+Brokerage Services,Mount Pleasant,52.1,ALTO RISCO,10967,351.0
+Brokerage Services,Oakridge,81.1,ALTO RISCO,1889,79.0
+Brokerage Services,Out of Town,54.2,ALTO RISCO,2234,78.0
+Brokerage Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Brokerage Services,Riley Park,72.2,ALTO RISCO,5628,186.0
+Brokerage Services,Shaughnessy,9.5,BAIXO RISCO,1194,60.0
+Brokerage Services,South Cambie,9.6,BAIXO RISCO,1863,58.0
+Brokerage Services,Strathcona,56.7,ALTO RISCO,5441,225.0
+Brokerage Services,Sunset,56.2,ALTO RISCO,6421,212.0
+Brokerage Services,UBC,27.9,BAIXO RISCO,32,1.0
+Brokerage Services,Victoria-Fraserview,0.3,BAIXO RISCO,3604,137.0
+Brokerage Services,West End,56.3,ALTO RISCO,9238,271.0
+Brokerage Services,West Point Grey,0.8,BAIXO RISCO,2158,91.0
+Building Repair and Maintenance,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Building Repair and Maintenance,Downtown,62.0,ALTO RISCO,41071,1217.0
+Building Repair and Maintenance,Dunbar-Southlands,48.2,BAIXO RISCO,2993,123.0
+Building Repair and Maintenance,Fairview,38.7,BAIXO RISCO,13609,329.0
+Building Repair and Maintenance,Grandview-Woodland,27.6,BAIXO RISCO,7426,243.0
+Building Repair and Maintenance,Hastings-Sunrise,31.6,BAIXO RISCO,5798,202.0
+Building Repair and Maintenance,Kensington-Cedar Cottage,43.5,BAIXO RISCO,9124,307.0
+Building Repair and Maintenance,Kerrisdale,56.0,ALTO RISCO,2320,74.0
+Building Repair and Maintenance,Killarney,55.3,ALTO RISCO,3121,93.0
+Building Repair and Maintenance,Kitsilano,61.9,ALTO RISCO,11491,318.0
+Building Repair and Maintenance,Marpole,47.8,BAIXO RISCO,6010,213.0
+Building Repair and Maintenance,Mount Pleasant,24.2,BAIXO RISCO,10967,351.0
+Building Repair and Maintenance,Oakridge,49.7,BAIXO RISCO,1889,79.0
+Building Repair and Maintenance,Out of Town,48.1,BAIXO RISCO,2234,78.0
+Building Repair and Maintenance,Renfrew-Collingwood,56.7,ALTO RISCO,7367,242.0
+Building Repair and Maintenance,Riley Park,73.8,ALTO RISCO,5628,186.0
+Building Repair and Maintenance,Shaughnessy,0.2,BAIXO RISCO,1194,60.0
+Building Repair and Maintenance,South Cambie,79.7,ALTO RISCO,1863,58.0
+Building Repair and Maintenance,Strathcona,44.2,BAIXO RISCO,5441,225.0
+Building Repair and Maintenance,Sunset,43.3,BAIXO RISCO,6421,212.0
+Building Repair and Maintenance,UBC,1.0,BAIXO RISCO,32,1.0
+Building Repair and Maintenance,Victoria-Fraserview,46.5,BAIXO RISCO,3604,137.0
+Building Repair and Maintenance,West End,50.8,ALTO RISCO,9238,271.0
+Building Repair and Maintenance,West Point Grey,2.3,BAIXO RISCO,2158,91.0
+Business - Vocational Instruction,Arbutus-Ridge,83.2,ALTO RISCO,2373,84.0
+Business - Vocational Instruction,Downtown,56.5,ALTO RISCO,41071,1217.0
+Business - Vocational Instruction,Dunbar-Southlands,0.8,BAIXO RISCO,2993,123.0
+Business - Vocational Instruction,Fairview,47.6,BAIXO RISCO,13609,329.0
+Business - Vocational Instruction,Grandview-Woodland,0.7,BAIXO RISCO,7426,243.0
+Business - Vocational Instruction,Hastings-Sunrise,2.0,BAIXO RISCO,5798,202.0
+Business - Vocational Instruction,Kensington-Cedar Cottage,42.9,BAIXO RISCO,9124,307.0
+Business - Vocational Instruction,Kerrisdale,34.0,BAIXO RISCO,2320,74.0
+Business - Vocational Instruction,Killarney,56.6,ALTO RISCO,3121,93.0
+Business - Vocational Instruction,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Business - Vocational Instruction,Marpole,47.5,BAIXO RISCO,6010,213.0
+Business - Vocational Instruction,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Business - Vocational Instruction,Oakridge,1.8,BAIXO RISCO,1889,79.0
+Business - Vocational Instruction,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Business - Vocational Instruction,Renfrew-Collingwood,77.4,ALTO RISCO,7367,242.0
+Business - Vocational Instruction,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Business - Vocational Instruction,Shaughnessy,60.3,ALTO RISCO,1194,60.0
+Business - Vocational Instruction,South Cambie,0.5,BAIXO RISCO,1863,58.0
+Business - Vocational Instruction,Strathcona,36.4,BAIXO RISCO,5441,225.0
+Business - Vocational Instruction,Sunset,0.0,BAIXO RISCO,6421,212.0
+Business - Vocational Instruction,UBC,31.8,BAIXO RISCO,32,1.0
+Business - Vocational Instruction,Victoria-Fraserview,58.5,ALTO RISCO,3604,137.0
+Business - Vocational Instruction,West End,64.3,ALTO RISCO,9238,271.0
+Business - Vocational Instruction,West Point Grey,75.5,ALTO RISCO,2158,91.0
+Business Support Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Business Support Services,Downtown,33.0,BAIXO RISCO,41071,1217.0
+Business Support Services,Dunbar-Southlands,34.0,BAIXO RISCO,2993,123.0
+Business Support Services,Fairview,46.2,BAIXO RISCO,13609,329.0
+Business Support Services,Grandview-Woodland,74.1,ALTO RISCO,7426,243.0
+Business Support Services,Hastings-Sunrise,48.3,BAIXO RISCO,5798,202.0
+Business Support Services,Kensington-Cedar Cottage,30.3,BAIXO RISCO,9124,307.0
+Business Support Services,Kerrisdale,32.5,BAIXO RISCO,2320,74.0
+Business Support Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Business Support Services,Kitsilano,36.1,BAIXO RISCO,11491,318.0
+Business Support Services,Marpole,37.7,BAIXO RISCO,6010,213.0
+Business Support Services,Mount Pleasant,30.0,BAIXO RISCO,10967,351.0
+Business Support Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Business Support Services,Out of Town,73.5,ALTO RISCO,2234,78.0
+Business Support Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Business Support Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Business Support Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Business Support Services,South Cambie,48.6,BAIXO RISCO,1863,58.0
+Business Support Services,Strathcona,49.3,BAIXO RISCO,5441,225.0
+Business Support Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Business Support Services,UBC,63.2,ALTO RISCO,32,1.0
+Business Support Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Business Support Services,West End,29.1,BAIXO RISCO,9238,271.0
+Business Support Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Cannabis Licence Application,Arbutus-Ridge,19.8,BAIXO RISCO,2373,84.0
+Cannabis Licence Application,Downtown,13.2,BAIXO RISCO,41071,1217.0
+Cannabis Licence Application,Dunbar-Southlands,14.0,BAIXO RISCO,2993,123.0
+Cannabis Licence Application,Fairview,26.2,BAIXO RISCO,13609,329.0
+Cannabis Licence Application,Grandview-Woodland,21.1,BAIXO RISCO,7426,243.0
+Cannabis Licence Application,Hastings-Sunrise,19.4,BAIXO RISCO,5798,202.0
+Cannabis Licence Application,Kensington-Cedar Cottage,25.1,BAIXO RISCO,9124,307.0
+Cannabis Licence Application,Kerrisdale,20.6,BAIXO RISCO,2320,74.0
+Cannabis Licence Application,Killarney,10.2,BAIXO RISCO,3121,93.0
+Cannabis Licence Application,Kitsilano,27.5,BAIXO RISCO,11491,318.0
+Cannabis Licence Application,Marpole,35.9,BAIXO RISCO,6010,213.0
+Cannabis Licence Application,Mount Pleasant,65.5,ALTO RISCO,10967,351.0
+Cannabis Licence Application,Oakridge,21.9,BAIXO RISCO,1889,79.0
+Cannabis Licence Application,Out of Town,23.6,BAIXO RISCO,2234,78.0
+Cannabis Licence Application,Renfrew-Collingwood,28.9,BAIXO RISCO,7367,242.0
+Cannabis Licence Application,Riley Park,23.9,BAIXO RISCO,5628,186.0
+Cannabis Licence Application,Shaughnessy,21.8,BAIXO RISCO,1194,60.0
+Cannabis Licence Application,South Cambie,24.7,BAIXO RISCO,1863,58.0
+Cannabis Licence Application,Strathcona,9.8,BAIXO RISCO,5441,225.0
+Cannabis Licence Application,Sunset,25.3,BAIXO RISCO,6421,212.0
+Cannabis Licence Application,UBC,17.5,BAIXO RISCO,32,1.0
+Cannabis Licence Application,Victoria-Fraserview,11.1,BAIXO RISCO,3604,137.0
+Cannabis Licence Application,West End,28.2,BAIXO RISCO,9238,271.0
+Cannabis Licence Application,West Point Grey,16.1,BAIXO RISCO,2158,91.0
+Caterer,Arbutus-Ridge,59.3,ALTO RISCO,2373,84.0
+Caterer,Downtown,82.8,ALTO RISCO,41071,1217.0
+Caterer,Dunbar-Southlands,60.1,ALTO RISCO,2993,123.0
+Caterer,Fairview,84.7,ALTO RISCO,13609,329.0
+Caterer,Grandview-Woodland,67.6,ALTO RISCO,7426,243.0
+Caterer,Hastings-Sunrise,59.3,ALTO RISCO,5798,202.0
+Caterer,Kensington-Cedar Cottage,74.5,ALTO RISCO,9124,307.0
+Caterer,Kerrisdale,59.6,ALTO RISCO,2320,74.0
+Caterer,Killarney,60.5,ALTO RISCO,3121,93.0
+Caterer,Kitsilano,52.3,ALTO RISCO,11491,318.0
+Caterer,Marpole,68.6,ALTO RISCO,6010,213.0
+Caterer,Mount Pleasant,86.5,ALTO RISCO,10967,351.0
+Caterer,Oakridge,54.3,ALTO RISCO,1889,79.0
+Caterer,Out of Town,96.7,ALTO RISCO,2234,78.0
+Caterer,Renfrew-Collingwood,1.7,BAIXO RISCO,7367,242.0
+Caterer,Riley Park,0.4,BAIXO RISCO,5628,186.0
+Caterer,Shaughnessy,56.7,ALTO RISCO,1194,60.0
+Caterer,South Cambie,59.3,ALTO RISCO,1863,58.0
+Caterer,Strathcona,73.0,ALTO RISCO,5441,225.0
+Caterer,Sunset,73.1,ALTO RISCO,6421,212.0
+Caterer,UBC,60.5,ALTO RISCO,32,1.0
+Caterer,Victoria-Fraserview,56.1,ALTO RISCO,3604,137.0
+Caterer,West End,97.5,ALTO RISCO,9238,271.0
+Caterer,West Point Grey,1.3,BAIXO RISCO,2158,91.0
+Consulting and Management Services,Arbutus-Ridge,20.8,BAIXO RISCO,2373,84.0
+Consulting and Management Services,Downtown,36.2,BAIXO RISCO,41071,1217.0
+Consulting and Management Services,Dunbar-Southlands,32.8,BAIXO RISCO,2993,123.0
+Consulting and Management Services,Fairview,36.6,BAIXO RISCO,13609,329.0
+Consulting and Management Services,Grandview-Woodland,49.2,BAIXO RISCO,7426,243.0
+Consulting and Management Services,Hastings-Sunrise,64.6,ALTO RISCO,5798,202.0
+Consulting and Management Services,Kensington-Cedar Cottage,57.3,ALTO RISCO,9124,307.0
+Consulting and Management Services,Kerrisdale,22.1,BAIXO RISCO,2320,74.0
+Consulting and Management Services,Killarney,41.0,BAIXO RISCO,3121,93.0
+Consulting and Management Services,Kitsilano,34.9,BAIXO RISCO,11491,318.0
+Consulting and Management Services,Marpole,14.1,BAIXO RISCO,6010,213.0
+Consulting and Management Services,Mount Pleasant,47.8,BAIXO RISCO,10967,351.0
+Consulting and Management Services,Oakridge,33.7,BAIXO RISCO,1889,79.0
+Consulting and Management Services,Out of Town,37.2,BAIXO RISCO,2234,78.0
+Consulting and Management Services,Renfrew-Collingwood,55.2,ALTO RISCO,7367,242.0
+Consulting and Management Services,Riley Park,46.8,BAIXO RISCO,5628,186.0
+Consulting and Management Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Consulting and Management Services,South Cambie,25.4,BAIXO RISCO,1863,58.0
+Consulting and Management Services,Strathcona,25.3,BAIXO RISCO,5441,225.0
+Consulting and Management Services,Sunset,42.8,BAIXO RISCO,6421,212.0
+Consulting and Management Services,UBC,0.5,BAIXO RISCO,32,1.0
+Consulting and Management Services,Victoria-Fraserview,76.7,ALTO RISCO,3604,137.0
+Consulting and Management Services,West End,49.4,BAIXO RISCO,9238,271.0
+Consulting and Management Services,West Point Grey,29.4,BAIXO RISCO,2158,91.0
+Creative Products Manufacturer,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Creative Products Manufacturer,Downtown,1.0,BAIXO RISCO,41071,1217.0
+Creative Products Manufacturer,Dunbar-Southlands,0.3,BAIXO RISCO,2993,123.0
+Creative Products Manufacturer,Fairview,68.3,ALTO RISCO,13609,329.0
+Creative Products Manufacturer,Grandview-Woodland,8.6,BAIXO RISCO,7426,243.0
+Creative Products Manufacturer,Hastings-Sunrise,10.2,BAIXO RISCO,5798,202.0
+Creative Products Manufacturer,Kensington-Cedar Cottage,14.7,BAIXO RISCO,9124,307.0
+Creative Products Manufacturer,Kerrisdale,11.4,BAIXO RISCO,2320,74.0
+Creative Products Manufacturer,Killarney,9.4,BAIXO RISCO,3121,93.0
+Creative Products Manufacturer,Kitsilano,15.3,BAIXO RISCO,11491,318.0
+Creative Products Manufacturer,Marpole,9.2,BAIXO RISCO,6010,213.0
+Creative Products Manufacturer,Mount Pleasant,1.5,BAIXO RISCO,10967,351.0
+Creative Products Manufacturer,Oakridge,16.4,BAIXO RISCO,1889,79.0
+Creative Products Manufacturer,Out of Town,13.8,BAIXO RISCO,2234,78.0
+Creative Products Manufacturer,Renfrew-Collingwood,0.8,BAIXO RISCO,7367,242.0
+Creative Products Manufacturer,Riley Park,2.9,BAIXO RISCO,5628,186.0
+Creative Products Manufacturer,Shaughnessy,4.2,BAIXO RISCO,1194,60.0
+Creative Products Manufacturer,South Cambie,1.8,BAIXO RISCO,1863,58.0
+Creative Products Manufacturer,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Creative Products Manufacturer,Sunset,15.0,BAIXO RISCO,6421,212.0
+Creative Products Manufacturer,UBC,7.7,BAIXO RISCO,32,1.0
+Creative Products Manufacturer,Victoria-Fraserview,16.8,BAIXO RISCO,3604,137.0
+Creative Products Manufacturer,West End,11.8,BAIXO RISCO,9238,271.0
+Creative Products Manufacturer,West Point Grey,8.2,BAIXO RISCO,2158,91.0
+Design Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Design Services,Downtown,37.9,BAIXO RISCO,41071,1217.0
+Design Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Design Services,Fairview,29.7,BAIXO RISCO,13609,329.0
+Design Services,Grandview-Woodland,33.3,BAIXO RISCO,7426,243.0
+Design Services,Hastings-Sunrise,60.7,ALTO RISCO,5798,202.0
+Design Services,Kensington-Cedar Cottage,25.9,BAIXO RISCO,9124,307.0
+Design Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Design Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Design Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Design Services,Marpole,43.4,BAIXO RISCO,6010,213.0
+Design Services,Mount Pleasant,53.2,ALTO RISCO,10967,351.0
+Design Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Design Services,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Design Services,Renfrew-Collingwood,42.6,BAIXO RISCO,7367,242.0
+Design Services,Riley Park,46.6,BAIXO RISCO,5628,186.0
+Design Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Design Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Design Services,Strathcona,31.0,BAIXO RISCO,5441,225.0
+Design Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Design Services,UBC,13.7,BAIXO RISCO,32,1.0
+Design Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Design Services,West End,42.3,BAIXO RISCO,9238,271.0
+Design Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Digital Entertainment and Interactive Technology,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Digital Entertainment and Interactive Technology,Downtown,23.3,BAIXO RISCO,41071,1217.0
+Digital Entertainment and Interactive Technology,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Digital Entertainment and Interactive Technology,Fairview,32.3,BAIXO RISCO,13609,329.0
+Digital Entertainment and Interactive Technology,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Digital Entertainment and Interactive Technology,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Digital Entertainment and Interactive Technology,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Digital Entertainment and Interactive Technology,Kerrisdale,2.6,BAIXO RISCO,2320,74.0
+Digital Entertainment and Interactive Technology,Killarney,0.9,BAIXO RISCO,3121,93.0
+Digital Entertainment and Interactive Technology,Kitsilano,42.4,BAIXO RISCO,11491,318.0
+Digital Entertainment and Interactive Technology,Marpole,79.6,ALTO RISCO,6010,213.0
+Digital Entertainment and Interactive Technology,Mount Pleasant,25.8,BAIXO RISCO,10967,351.0
+Digital Entertainment and Interactive Technology,Oakridge,1.7,BAIXO RISCO,1889,79.0
+Digital Entertainment and Interactive Technology,Out of Town,4.4,BAIXO RISCO,2234,78.0
+Digital Entertainment and Interactive Technology,Renfrew-Collingwood,46.4,BAIXO RISCO,7367,242.0
+Digital Entertainment and Interactive Technology,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Digital Entertainment and Interactive Technology,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Digital Entertainment and Interactive Technology,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Digital Entertainment and Interactive Technology,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Digital Entertainment and Interactive Technology,Sunset,59.3,ALTO RISCO,6421,212.0
+Digital Entertainment and Interactive Technology,UBC,9.4,BAIXO RISCO,32,1.0
+Digital Entertainment and Interactive Technology,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Digital Entertainment and Interactive Technology,West End,0.0,BAIXO RISCO,9238,271.0
+Digital Entertainment and Interactive Technology,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Entertainment Facility,Arbutus-Ridge,11.0,BAIXO RISCO,2373,84.0
+Entertainment Facility,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Entertainment Facility,Dunbar-Southlands,10.7,BAIXO RISCO,2993,123.0
+Entertainment Facility,Fairview,0.6,BAIXO RISCO,13609,329.0
+Entertainment Facility,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Entertainment Facility,Hastings-Sunrise,1.2,BAIXO RISCO,5798,202.0
+Entertainment Facility,Kensington-Cedar Cottage,0.5,BAIXO RISCO,9124,307.0
+Entertainment Facility,Kerrisdale,5.0,BAIXO RISCO,2320,74.0
+Entertainment Facility,Killarney,11.5,BAIXO RISCO,3121,93.0
+Entertainment Facility,Kitsilano,19.8,BAIXO RISCO,11491,318.0
+Entertainment Facility,Marpole,1.0,BAIXO RISCO,6010,213.0
+Entertainment Facility,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Entertainment Facility,Oakridge,3.5,BAIXO RISCO,1889,79.0
+Entertainment Facility,Out of Town,16.6,BAIXO RISCO,2234,78.0
+Entertainment Facility,Renfrew-Collingwood,59.7,ALTO RISCO,7367,242.0
+Entertainment Facility,Riley Park,16.3,BAIXO RISCO,5628,186.0
+Entertainment Facility,Shaughnessy,13.5,BAIXO RISCO,1194,60.0
+Entertainment Facility,South Cambie,16.1,BAIXO RISCO,1863,58.0
+Entertainment Facility,Strathcona,27.3,BAIXO RISCO,5441,225.0
+Entertainment Facility,Sunset,69.6,ALTO RISCO,6421,212.0
+Entertainment Facility,UBC,10.6,BAIXO RISCO,32,1.0
+Entertainment Facility,Victoria-Fraserview,20.0,BAIXO RISCO,3604,137.0
+Entertainment Facility,West End,3.1,BAIXO RISCO,9238,271.0
+Entertainment Facility,West Point Grey,13.7,BAIXO RISCO,2158,91.0
+Exhibition Centre,Arbutus-Ridge,9.4,BAIXO RISCO,2373,84.0
+Exhibition Centre,Downtown,4.1,BAIXO RISCO,41071,1217.0
+Exhibition Centre,Dunbar-Southlands,7.5,BAIXO RISCO,2993,123.0
+Exhibition Centre,Fairview,22.8,BAIXO RISCO,13609,329.0
+Exhibition Centre,Grandview-Woodland,15.6,BAIXO RISCO,7426,243.0
+Exhibition Centre,Hastings-Sunrise,14.1,BAIXO RISCO,5798,202.0
+Exhibition Centre,Kensington-Cedar Cottage,18.6,BAIXO RISCO,9124,307.0
+Exhibition Centre,Kerrisdale,12.6,BAIXO RISCO,2320,74.0
+Exhibition Centre,Killarney,11.7,BAIXO RISCO,3121,93.0
+Exhibition Centre,Kitsilano,21.8,BAIXO RISCO,11491,318.0
+Exhibition Centre,Marpole,33.7,BAIXO RISCO,6010,213.0
+Exhibition Centre,Mount Pleasant,28.3,BAIXO RISCO,10967,351.0
+Exhibition Centre,Oakridge,17.8,BAIXO RISCO,1889,79.0
+Exhibition Centre,Out of Town,22.0,BAIXO RISCO,2234,78.0
+Exhibition Centre,Renfrew-Collingwood,21.9,BAIXO RISCO,7367,242.0
+Exhibition Centre,Riley Park,16.0,BAIXO RISCO,5628,186.0
+Exhibition Centre,Shaughnessy,11.5,BAIXO RISCO,1194,60.0
+Exhibition Centre,South Cambie,16.0,BAIXO RISCO,1863,58.0
+Exhibition Centre,Strathcona,30.0,BAIXO RISCO,5441,225.0
+Exhibition Centre,Sunset,20.8,BAIXO RISCO,6421,212.0
+Exhibition Centre,UBC,7.5,BAIXO RISCO,32,1.0
+Exhibition Centre,Victoria-Fraserview,23.5,BAIXO RISCO,3604,137.0
+Exhibition Centre,West End,7.1,BAIXO RISCO,9238,271.0
+Exhibition Centre,West Point Grey,10.3,BAIXO RISCO,2158,91.0
+Financial Institution,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Financial Institution,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Financial Institution,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Financial Institution,Fairview,0.0,BAIXO RISCO,13609,329.0
+Financial Institution,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Financial Institution,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Financial Institution,Kensington-Cedar Cottage,44.3,BAIXO RISCO,9124,307.0
+Financial Institution,Kerrisdale,47.2,BAIXO RISCO,2320,74.0
+Financial Institution,Killarney,0.0,BAIXO RISCO,3121,93.0
+Financial Institution,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Financial Institution,Marpole,0.0,BAIXO RISCO,6010,213.0
+Financial Institution,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Financial Institution,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Financial Institution,Out of Town,5.4,BAIXO RISCO,2234,78.0
+Financial Institution,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Financial Institution,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Financial Institution,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Financial Institution,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Financial Institution,Strathcona,59.0,ALTO RISCO,5441,225.0
+Financial Institution,Sunset,0.0,BAIXO RISCO,6421,212.0
+Financial Institution,UBC,6.1,BAIXO RISCO,32,1.0
+Financial Institution,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Financial Institution,West End,40.0,BAIXO RISCO,9238,271.0
+Financial Institution,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Financial Services,Arbutus-Ridge,48.8,BAIXO RISCO,2373,84.0
+Financial Services,Downtown,25.8,BAIXO RISCO,41071,1217.0
+Financial Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Financial Services,Fairview,28.8,BAIXO RISCO,13609,329.0
+Financial Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Financial Services,Hastings-Sunrise,50.7,ALTO RISCO,5798,202.0
+Financial Services,Kensington-Cedar Cottage,61.6,ALTO RISCO,9124,307.0
+Financial Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Financial Services,Killarney,40.9,BAIXO RISCO,3121,93.0
+Financial Services,Kitsilano,22.1,BAIXO RISCO,11491,318.0
+Financial Services,Marpole,20.0,BAIXO RISCO,6010,213.0
+Financial Services,Mount Pleasant,23.5,BAIXO RISCO,10967,351.0
+Financial Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Financial Services,Out of Town,0.5,BAIXO RISCO,2234,78.0
+Financial Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Financial Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Financial Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Financial Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Financial Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Financial Services,Sunset,31.7,BAIXO RISCO,6421,212.0
+Financial Services,UBC,11.7,BAIXO RISCO,32,1.0
+Financial Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Financial Services,West End,43.6,BAIXO RISCO,9238,271.0
+Financial Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Fitness Centre,Arbutus-Ridge,19.3,BAIXO RISCO,2373,84.0
+Fitness Centre,Downtown,48.1,BAIXO RISCO,41071,1217.0
+Fitness Centre,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Fitness Centre,Fairview,59.2,ALTO RISCO,13609,329.0
+Fitness Centre,Grandview-Woodland,51.2,ALTO RISCO,7426,243.0
+Fitness Centre,Hastings-Sunrise,50.1,ALTO RISCO,5798,202.0
+Fitness Centre,Kensington-Cedar Cottage,64.3,ALTO RISCO,9124,307.0
+Fitness Centre,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Fitness Centre,Killarney,0.0,BAIXO RISCO,3121,93.0
+Fitness Centre,Kitsilano,46.2,BAIXO RISCO,11491,318.0
+Fitness Centre,Marpole,0.6,BAIXO RISCO,6010,213.0
+Fitness Centre,Mount Pleasant,60.1,ALTO RISCO,10967,351.0
+Fitness Centre,Oakridge,6.4,BAIXO RISCO,1889,79.0
+Fitness Centre,Out of Town,23.8,BAIXO RISCO,2234,78.0
+Fitness Centre,Renfrew-Collingwood,49.3,BAIXO RISCO,7367,242.0
+Fitness Centre,Riley Park,45.6,BAIXO RISCO,5628,186.0
+Fitness Centre,Shaughnessy,2.2,BAIXO RISCO,1194,60.0
+Fitness Centre,South Cambie,20.4,BAIXO RISCO,1863,58.0
+Fitness Centre,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Fitness Centre,Sunset,0.3,BAIXO RISCO,6421,212.0
+Fitness Centre,UBC,18.4,BAIXO RISCO,32,1.0
+Fitness Centre,Victoria-Fraserview,2.1,BAIXO RISCO,3604,137.0
+Fitness Centre,West End,0.0,BAIXO RISCO,9238,271.0
+Fitness Centre,West Point Grey,40.8,BAIXO RISCO,2158,91.0
+Food Manufacturer Assembler and Processor,Arbutus-Ridge,43.5,BAIXO RISCO,2373,84.0
+Food Manufacturer Assembler and Processor,Downtown,83.0,ALTO RISCO,41071,1217.0
+Food Manufacturer Assembler and Processor,Dunbar-Southlands,46.4,BAIXO RISCO,2993,123.0
+Food Manufacturer Assembler and Processor,Fairview,62.6,ALTO RISCO,13609,329.0
+Food Manufacturer Assembler and Processor,Grandview-Woodland,51.3,ALTO RISCO,7426,243.0
+Food Manufacturer Assembler and Processor,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Food Manufacturer Assembler and Processor,Kensington-Cedar Cottage,63.0,ALTO RISCO,9124,307.0
+Food Manufacturer Assembler and Processor,Kerrisdale,46.5,BAIXO RISCO,2320,74.0
+Food Manufacturer Assembler and Processor,Killarney,15.9,BAIXO RISCO,3121,93.0
+Food Manufacturer Assembler and Processor,Kitsilano,74.5,ALTO RISCO,11491,318.0
+Food Manufacturer Assembler and Processor,Marpole,78.5,ALTO RISCO,6010,213.0
+Food Manufacturer Assembler and Processor,Mount Pleasant,20.4,BAIXO RISCO,10967,351.0
+Food Manufacturer Assembler and Processor,Oakridge,41.5,BAIXO RISCO,1889,79.0
+Food Manufacturer Assembler and Processor,Out of Town,81.6,ALTO RISCO,2234,78.0
+Food Manufacturer Assembler and Processor,Renfrew-Collingwood,58.0,ALTO RISCO,7367,242.0
+Food Manufacturer Assembler and Processor,Riley Park,44.7,BAIXO RISCO,5628,186.0
+Food Manufacturer Assembler and Processor,Shaughnessy,44.4,BAIXO RISCO,1194,60.0
+Food Manufacturer Assembler and Processor,South Cambie,46.7,BAIXO RISCO,1863,58.0
+Food Manufacturer Assembler and Processor,Strathcona,61.6,ALTO RISCO,5441,225.0
+Food Manufacturer Assembler and Processor,Sunset,77.6,ALTO RISCO,6421,212.0
+Food Manufacturer Assembler and Processor,UBC,47.6,BAIXO RISCO,32,1.0
+Food Manufacturer Assembler and Processor,Victoria-Fraserview,52.8,ALTO RISCO,3604,137.0
+Food Manufacturer Assembler and Processor,West End,6.6,BAIXO RISCO,9238,271.0
+Food Manufacturer Assembler and Processor,West Point Grey,44.5,BAIXO RISCO,2158,91.0
+Food Market,Arbutus-Ridge,9.2,BAIXO RISCO,2373,84.0
+Food Market,Downtown,31.0,BAIXO RISCO,41071,1217.0
+Food Market,Dunbar-Southlands,5.7,BAIXO RISCO,2993,123.0
+Food Market,Fairview,22.9,BAIXO RISCO,13609,329.0
+Food Market,Grandview-Woodland,14.9,BAIXO RISCO,7426,243.0
+Food Market,Hastings-Sunrise,12.7,BAIXO RISCO,5798,202.0
+Food Market,Kensington-Cedar Cottage,16.8,BAIXO RISCO,9124,307.0
+Food Market,Kerrisdale,11.4,BAIXO RISCO,2320,74.0
+Food Market,Killarney,8.7,BAIXO RISCO,3121,93.0
+Food Market,Kitsilano,0.5,BAIXO RISCO,11491,318.0
+Food Market,Marpole,30.4,BAIXO RISCO,6010,213.0
+Food Market,Mount Pleasant,1.5,BAIXO RISCO,10967,351.0
+Food Market,Oakridge,17.8,BAIXO RISCO,1889,79.0
+Food Market,Out of Town,20.6,BAIXO RISCO,2234,78.0
+Food Market,Renfrew-Collingwood,20.7,BAIXO RISCO,7367,242.0
+Food Market,Riley Park,16.5,BAIXO RISCO,5628,186.0
+Food Market,Shaughnessy,12.2,BAIXO RISCO,1194,60.0
+Food Market,South Cambie,14.0,BAIXO RISCO,1863,58.0
+Food Market,Strathcona,27.5,BAIXO RISCO,5441,225.0
+Food Market,Sunset,17.4,BAIXO RISCO,6421,212.0
+Food Market,UBC,5.8,BAIXO RISCO,32,1.0
+Food Market,Victoria-Fraserview,22.1,BAIXO RISCO,3604,137.0
+Food Market,West End,17.1,BAIXO RISCO,9238,271.0
+Food Market,West Point Grey,9.2,BAIXO RISCO,2158,91.0
+Forestry Services,Arbutus-Ridge,9.0,BAIXO RISCO,2373,84.0
+Forestry Services,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Forestry Services,Dunbar-Southlands,6.8,BAIXO RISCO,2993,123.0
+Forestry Services,Fairview,21.3,BAIXO RISCO,13609,329.0
+Forestry Services,Grandview-Woodland,14.1,BAIXO RISCO,7426,243.0
+Forestry Services,Hastings-Sunrise,13.0,BAIXO RISCO,5798,202.0
+Forestry Services,Kensington-Cedar Cottage,17.0,BAIXO RISCO,9124,307.0
+Forestry Services,Kerrisdale,11.6,BAIXO RISCO,2320,74.0
+Forestry Services,Killarney,9.9,BAIXO RISCO,3121,93.0
+Forestry Services,Kitsilano,20.5,BAIXO RISCO,11491,318.0
+Forestry Services,Marpole,30.9,BAIXO RISCO,6010,213.0
+Forestry Services,Mount Pleasant,26.4,BAIXO RISCO,10967,351.0
+Forestry Services,Oakridge,17.4,BAIXO RISCO,1889,79.0
+Forestry Services,Out of Town,9.0,BAIXO RISCO,2234,78.0
+Forestry Services,Renfrew-Collingwood,19.1,BAIXO RISCO,7367,242.0
+Forestry Services,Riley Park,13.7,BAIXO RISCO,5628,186.0
+Forestry Services,Shaughnessy,11.9,BAIXO RISCO,1194,60.0
+Forestry Services,South Cambie,15.5,BAIXO RISCO,1863,58.0
+Forestry Services,Strathcona,27.3,BAIXO RISCO,5441,225.0
+Forestry Services,Sunset,17.0,BAIXO RISCO,6421,212.0
+Forestry Services,UBC,5.1,BAIXO RISCO,32,1.0
+Forestry Services,Victoria-Fraserview,21.3,BAIXO RISCO,3604,137.0
+Forestry Services,West End,17.4,BAIXO RISCO,9238,271.0
+Forestry Services,West Point Grey,9.7,BAIXO RISCO,2158,91.0
+Gas Station,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Gas Station,Downtown,11.0,BAIXO RISCO,41071,1217.0
+Gas Station,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Gas Station,Fairview,0.0,BAIXO RISCO,13609,329.0
+Gas Station,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Gas Station,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Gas Station,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Gas Station,Kerrisdale,2.2,BAIXO RISCO,2320,74.0
+Gas Station,Killarney,0.0,BAIXO RISCO,3121,93.0
+Gas Station,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Gas Station,Marpole,52.9,ALTO RISCO,6010,213.0
+Gas Station,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Gas Station,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Gas Station,Out of Town,3.1,BAIXO RISCO,2234,78.0
+Gas Station,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Gas Station,Riley Park,4.1,BAIXO RISCO,5628,186.0
+Gas Station,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Gas Station,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Gas Station,Strathcona,3.1,BAIXO RISCO,5441,225.0
+Gas Station,Sunset,0.0,BAIXO RISCO,6421,212.0
+Gas Station,UBC,0.8,BAIXO RISCO,32,1.0
+Gas Station,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Gas Station,West End,0.0,BAIXO RISCO,9238,271.0
+Gas Station,West Point Grey,0.8,BAIXO RISCO,2158,91.0
+General Contractor,Arbutus-Ridge,57.9,ALTO RISCO,2373,84.0
+General Contractor,Downtown,53.7,ALTO RISCO,41071,1217.0
+General Contractor,Dunbar-Southlands,47.3,BAIXO RISCO,2993,123.0
+General Contractor,Fairview,45.7,BAIXO RISCO,13609,329.0
+General Contractor,Grandview-Woodland,32.1,BAIXO RISCO,7426,243.0
+General Contractor,Hastings-Sunrise,47.2,BAIXO RISCO,5798,202.0
+General Contractor,Kensington-Cedar Cottage,37.7,BAIXO RISCO,9124,307.0
+General Contractor,Kerrisdale,70.6,ALTO RISCO,2320,74.0
+General Contractor,Killarney,38.2,BAIXO RISCO,3121,93.0
+General Contractor,Kitsilano,55.7,ALTO RISCO,11491,318.0
+General Contractor,Marpole,51.2,ALTO RISCO,6010,213.0
+General Contractor,Mount Pleasant,51.2,ALTO RISCO,10967,351.0
+General Contractor,Oakridge,71.8,ALTO RISCO,1889,79.0
+General Contractor,Out of Town,45.5,BAIXO RISCO,2234,78.0
+General Contractor,Renfrew-Collingwood,54.0,ALTO RISCO,7367,242.0
+General Contractor,Riley Park,49.3,BAIXO RISCO,5628,186.0
+General Contractor,Shaughnessy,20.9,BAIXO RISCO,1194,60.0
+General Contractor,South Cambie,0.0,BAIXO RISCO,1863,58.0
+General Contractor,Strathcona,68.7,ALTO RISCO,5441,225.0
+General Contractor,Sunset,51.4,ALTO RISCO,6421,212.0
+General Contractor,UBC,0.0,BAIXO RISCO,32,1.0
+General Contractor,Victoria-Fraserview,37.1,BAIXO RISCO,3604,137.0
+General Contractor,West End,44.9,BAIXO RISCO,9238,271.0
+General Contractor,West Point Grey,45.6,BAIXO RISCO,2158,91.0
+General Repair and Maintenance,Arbutus-Ridge,60.1,ALTO RISCO,2373,84.0
+General Repair and Maintenance,Downtown,59.4,ALTO RISCO,41071,1217.0
+General Repair and Maintenance,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+General Repair and Maintenance,Fairview,34.4,BAIXO RISCO,13609,329.0
+General Repair and Maintenance,Grandview-Woodland,70.7,ALTO RISCO,7426,243.0
+General Repair and Maintenance,Hastings-Sunrise,55.0,ALTO RISCO,5798,202.0
+General Repair and Maintenance,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+General Repair and Maintenance,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+General Repair and Maintenance,Killarney,0.0,BAIXO RISCO,3121,93.0
+General Repair and Maintenance,Kitsilano,42.3,BAIXO RISCO,11491,318.0
+General Repair and Maintenance,Marpole,50.8,ALTO RISCO,6010,213.0
+General Repair and Maintenance,Mount Pleasant,52.0,ALTO RISCO,10967,351.0
+General Repair and Maintenance,Oakridge,0.9,BAIXO RISCO,1889,79.0
+General Repair and Maintenance,Out of Town,0.0,BAIXO RISCO,2234,78.0
+General Repair and Maintenance,Renfrew-Collingwood,44.3,BAIXO RISCO,7367,242.0
+General Repair and Maintenance,Riley Park,0.0,BAIXO RISCO,5628,186.0
+General Repair and Maintenance,Shaughnessy,6.6,BAIXO RISCO,1194,60.0
+General Repair and Maintenance,South Cambie,20.5,BAIXO RISCO,1863,58.0
+General Repair and Maintenance,Strathcona,0.0,BAIXO RISCO,5441,225.0
+General Repair and Maintenance,Sunset,36.5,BAIXO RISCO,6421,212.0
+General Repair and Maintenance,UBC,21.4,BAIXO RISCO,32,1.0
+General Repair and Maintenance,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+General Repair and Maintenance,West End,0.0,BAIXO RISCO,9238,271.0
+General Repair and Maintenance,West Point Grey,54.9,ALTO RISCO,2158,91.0
+Grocery Store,Arbutus-Ridge,0.6,BAIXO RISCO,2373,84.0
+Grocery Store,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Grocery Store,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Grocery Store,Fairview,0.0,BAIXO RISCO,13609,329.0
+Grocery Store,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Grocery Store,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Grocery Store,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Grocery Store,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Grocery Store,Killarney,0.0,BAIXO RISCO,3121,93.0
+Grocery Store,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Grocery Store,Marpole,1.2,BAIXO RISCO,6010,213.0
+Grocery Store,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Grocery Store,Oakridge,7.8,BAIXO RISCO,1889,79.0
+Grocery Store,Out of Town,1.2,BAIXO RISCO,2234,78.0
+Grocery Store,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Grocery Store,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Grocery Store,Shaughnessy,2.6,BAIXO RISCO,1194,60.0
+Grocery Store,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Grocery Store,Strathcona,13.2,BAIXO RISCO,5441,225.0
+Grocery Store,Sunset,0.0,BAIXO RISCO,6421,212.0
+Grocery Store,UBC,1.0,BAIXO RISCO,32,1.0
+Grocery Store,Victoria-Fraserview,3.5,BAIXO RISCO,3604,137.0
+Grocery Store,West End,0.0,BAIXO RISCO,9238,271.0
+Grocery Store,West Point Grey,0.3,BAIXO RISCO,2158,91.0
+Hall / Spectator Sports Venue,Arbutus-Ridge,4.1,BAIXO RISCO,2373,84.0
+Hall / Spectator Sports Venue,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Hall / Spectator Sports Venue,Dunbar-Southlands,4.0,BAIXO RISCO,2993,123.0
+Hall / Spectator Sports Venue,Fairview,0.3,BAIXO RISCO,13609,329.0
+Hall / Spectator Sports Venue,Grandview-Woodland,1.3,BAIXO RISCO,7426,243.0
+Hall / Spectator Sports Venue,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Hall / Spectator Sports Venue,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Hall / Spectator Sports Venue,Kerrisdale,6.3,BAIXO RISCO,2320,74.0
+Hall / Spectator Sports Venue,Killarney,6.3,BAIXO RISCO,3121,93.0
+Hall / Spectator Sports Venue,Kitsilano,0.2,BAIXO RISCO,11491,318.0
+Hall / Spectator Sports Venue,Marpole,73.0,ALTO RISCO,6010,213.0
+Hall / Spectator Sports Venue,Mount Pleasant,7.0,BAIXO RISCO,10967,351.0
+Hall / Spectator Sports Venue,Oakridge,16.3,BAIXO RISCO,1889,79.0
+Hall / Spectator Sports Venue,Out of Town,11.2,BAIXO RISCO,2234,78.0
+Hall / Spectator Sports Venue,Renfrew-Collingwood,0.3,BAIXO RISCO,7367,242.0
+Hall / Spectator Sports Venue,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Hall / Spectator Sports Venue,Shaughnessy,7.2,BAIXO RISCO,1194,60.0
+Hall / Spectator Sports Venue,South Cambie,9.2,BAIXO RISCO,1863,58.0
+Hall / Spectator Sports Venue,Strathcona,45.8,BAIXO RISCO,5441,225.0
+Hall / Spectator Sports Venue,Sunset,0.0,BAIXO RISCO,6421,212.0
+Hall / Spectator Sports Venue,UBC,4.4,BAIXO RISCO,32,1.0
+Hall / Spectator Sports Venue,Victoria-Fraserview,15.5,BAIXO RISCO,3604,137.0
+Hall / Spectator Sports Venue,West End,0.0,BAIXO RISCO,9238,271.0
+Hall / Spectator Sports Venue,West Point Grey,6.1,BAIXO RISCO,2158,91.0
+Health Care Facility,Arbutus-Ridge,45.4,BAIXO RISCO,2373,84.0
+Health Care Facility,Downtown,42.1,BAIXO RISCO,41071,1217.0
+Health Care Facility,Dunbar-Southlands,0.3,BAIXO RISCO,2993,123.0
+Health Care Facility,Fairview,55.9,ALTO RISCO,13609,329.0
+Health Care Facility,Grandview-Woodland,42.3,BAIXO RISCO,7426,243.0
+Health Care Facility,Hastings-Sunrise,39.0,BAIXO RISCO,5798,202.0
+Health Care Facility,Kensington-Cedar Cottage,21.2,BAIXO RISCO,9124,307.0
+Health Care Facility,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Health Care Facility,Killarney,0.0,BAIXO RISCO,3121,93.0
+Health Care Facility,Kitsilano,53.5,ALTO RISCO,11491,318.0
+Health Care Facility,Marpole,0.0,BAIXO RISCO,6010,213.0
+Health Care Facility,Mount Pleasant,28.7,BAIXO RISCO,10967,351.0
+Health Care Facility,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Health Care Facility,Out of Town,18.7,BAIXO RISCO,2234,78.0
+Health Care Facility,Renfrew-Collingwood,27.4,BAIXO RISCO,7367,242.0
+Health Care Facility,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Health Care Facility,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Health Care Facility,South Cambie,45.2,BAIXO RISCO,1863,58.0
+Health Care Facility,Strathcona,40.6,BAIXO RISCO,5441,225.0
+Health Care Facility,Sunset,0.0,BAIXO RISCO,6421,212.0
+Health Care Facility,UBC,15.4,BAIXO RISCO,32,1.0
+Health Care Facility,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Health Care Facility,West End,0.0,BAIXO RISCO,9238,271.0
+Health Care Facility,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Health Care Professionals and Services,Arbutus-Ridge,31.1,BAIXO RISCO,2373,84.0
+Health Care Professionals and Services,Downtown,46.3,BAIXO RISCO,41071,1217.0
+Health Care Professionals and Services,Dunbar-Southlands,40.2,BAIXO RISCO,2993,123.0
+Health Care Professionals and Services,Fairview,35.0,BAIXO RISCO,13609,329.0
+Health Care Professionals and Services,Grandview-Woodland,44.6,BAIXO RISCO,7426,243.0
+Health Care Professionals and Services,Hastings-Sunrise,50.9,ALTO RISCO,5798,202.0
+Health Care Professionals and Services,Kensington-Cedar Cottage,44.2,BAIXO RISCO,9124,307.0
+Health Care Professionals and Services,Kerrisdale,42.2,BAIXO RISCO,2320,74.0
+Health Care Professionals and Services,Killarney,41.3,BAIXO RISCO,3121,93.0
+Health Care Professionals and Services,Kitsilano,38.1,BAIXO RISCO,11491,318.0
+Health Care Professionals and Services,Marpole,42.7,BAIXO RISCO,6010,213.0
+Health Care Professionals and Services,Mount Pleasant,46.9,BAIXO RISCO,10967,351.0
+Health Care Professionals and Services,Oakridge,34.1,BAIXO RISCO,1889,79.0
+Health Care Professionals and Services,Out of Town,63.5,ALTO RISCO,2234,78.0
+Health Care Professionals and Services,Renfrew-Collingwood,48.3,BAIXO RISCO,7367,242.0
+Health Care Professionals and Services,Riley Park,34.0,BAIXO RISCO,5628,186.0
+Health Care Professionals and Services,Shaughnessy,73.5,ALTO RISCO,1194,60.0
+Health Care Professionals and Services,South Cambie,61.2,ALTO RISCO,1863,58.0
+Health Care Professionals and Services,Strathcona,49.4,BAIXO RISCO,5441,225.0
+Health Care Professionals and Services,Sunset,48.1,BAIXO RISCO,6421,212.0
+Health Care Professionals and Services,UBC,40.2,BAIXO RISCO,32,1.0
+Health Care Professionals and Services,Victoria-Fraserview,40.3,BAIXO RISCO,3604,137.0
+Health Care Professionals and Services,West End,42.1,BAIXO RISCO,9238,271.0
+Health Care Professionals and Services,West Point Grey,15.7,BAIXO RISCO,2158,91.0
+Health Enhancement Services,Arbutus-Ridge,52.0,ALTO RISCO,2373,84.0
+Health Enhancement Services,Downtown,51.7,ALTO RISCO,41071,1217.0
+Health Enhancement Services,Dunbar-Southlands,76.7,ALTO RISCO,2993,123.0
+Health Enhancement Services,Fairview,68.2,ALTO RISCO,13609,329.0
+Health Enhancement Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Health Enhancement Services,Hastings-Sunrise,53.9,ALTO RISCO,5798,202.0
+Health Enhancement Services,Kensington-Cedar Cottage,66.8,ALTO RISCO,9124,307.0
+Health Enhancement Services,Kerrisdale,7.7,BAIXO RISCO,2320,74.0
+Health Enhancement Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Health Enhancement Services,Kitsilano,67.4,ALTO RISCO,11491,318.0
+Health Enhancement Services,Marpole,69.0,ALTO RISCO,6010,213.0
+Health Enhancement Services,Mount Pleasant,57.4,ALTO RISCO,10967,351.0
+Health Enhancement Services,Oakridge,1.8,BAIXO RISCO,1889,79.0
+Health Enhancement Services,Out of Town,55.8,ALTO RISCO,2234,78.0
+Health Enhancement Services,Renfrew-Collingwood,61.4,ALTO RISCO,7367,242.0
+Health Enhancement Services,Riley Park,70.9,ALTO RISCO,5628,186.0
+Health Enhancement Services,Shaughnessy,60.8,ALTO RISCO,1194,60.0
+Health Enhancement Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Health Enhancement Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Health Enhancement Services,Sunset,56.7,ALTO RISCO,6421,212.0
+Health Enhancement Services,UBC,50.8,ALTO RISCO,32,1.0
+Health Enhancement Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Health Enhancement Services,West End,68.6,ALTO RISCO,9238,271.0
+Health Enhancement Services,West Point Grey,76.3,ALTO RISCO,2158,91.0
+Hotel or Motel,Arbutus-Ridge,7.8,BAIXO RISCO,2373,84.0
+Hotel or Motel,Downtown,25.7,BAIXO RISCO,41071,1217.0
+Hotel or Motel,Dunbar-Southlands,5.5,BAIXO RISCO,2993,123.0
+Hotel or Motel,Fairview,1.4,BAIXO RISCO,13609,329.0
+Hotel or Motel,Grandview-Woodland,0.8,BAIXO RISCO,7426,243.0
+Hotel or Motel,Hastings-Sunrise,0.6,BAIXO RISCO,5798,202.0
+Hotel or Motel,Kensington-Cedar Cottage,10.0,BAIXO RISCO,9124,307.0
+Hotel or Motel,Kerrisdale,8.6,BAIXO RISCO,2320,74.0
+Hotel or Motel,Killarney,6.7,BAIXO RISCO,3121,93.0
+Hotel or Motel,Kitsilano,12.7,BAIXO RISCO,11491,318.0
+Hotel or Motel,Marpole,0.7,BAIXO RISCO,6010,213.0
+Hotel or Motel,Mount Pleasant,9.4,BAIXO RISCO,10967,351.0
+Hotel or Motel,Oakridge,15.9,BAIXO RISCO,1889,79.0
+Hotel or Motel,Out of Town,13.0,BAIXO RISCO,2234,78.0
+Hotel or Motel,Renfrew-Collingwood,0.7,BAIXO RISCO,7367,242.0
+Hotel or Motel,Riley Park,10.0,BAIXO RISCO,5628,186.0
+Hotel or Motel,Shaughnessy,10.6,BAIXO RISCO,1194,60.0
+Hotel or Motel,South Cambie,10.3,BAIXO RISCO,1863,58.0
+Hotel or Motel,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Hotel or Motel,Sunset,12.1,BAIXO RISCO,6421,212.0
+Hotel or Motel,UBC,6.8,BAIXO RISCO,32,1.0
+Hotel or Motel,Victoria-Fraserview,15.0,BAIXO RISCO,3604,137.0
+Hotel or Motel,West End,28.2,BAIXO RISCO,9238,271.0
+Hotel or Motel,West Point Grey,6.6,BAIXO RISCO,2158,91.0
+Information Communication Technology,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Information Communication Technology,Downtown,48.3,BAIXO RISCO,41071,1217.0
+Information Communication Technology,Dunbar-Southlands,66.8,ALTO RISCO,2993,123.0
+Information Communication Technology,Fairview,58.0,ALTO RISCO,13609,329.0
+Information Communication Technology,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Information Communication Technology,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Information Communication Technology,Kensington-Cedar Cottage,34.1,BAIXO RISCO,9124,307.0
+Information Communication Technology,Kerrisdale,51.5,ALTO RISCO,2320,74.0
+Information Communication Technology,Killarney,64.3,ALTO RISCO,3121,93.0
+Information Communication Technology,Kitsilano,29.5,BAIXO RISCO,11491,318.0
+Information Communication Technology,Marpole,54.8,ALTO RISCO,6010,213.0
+Information Communication Technology,Mount Pleasant,59.3,ALTO RISCO,10967,351.0
+Information Communication Technology,Oakridge,58.8,ALTO RISCO,1889,79.0
+Information Communication Technology,Out of Town,42.0,BAIXO RISCO,2234,78.0
+Information Communication Technology,Renfrew-Collingwood,68.8,ALTO RISCO,7367,242.0
+Information Communication Technology,Riley Park,63.8,ALTO RISCO,5628,186.0
+Information Communication Technology,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Information Communication Technology,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Information Communication Technology,Strathcona,30.0,BAIXO RISCO,5441,225.0
+Information Communication Technology,Sunset,53.7,ALTO RISCO,6421,212.0
+Information Communication Technology,UBC,31.1,BAIXO RISCO,32,1.0
+Information Communication Technology,Victoria-Fraserview,1.0,BAIXO RISCO,3604,137.0
+Information Communication Technology,West End,70.7,ALTO RISCO,9238,271.0
+Information Communication Technology,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Insurance Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Insurance Services,Downtown,47.3,BAIXO RISCO,41071,1217.0
+Insurance Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Insurance Services,Fairview,31.5,BAIXO RISCO,13609,329.0
+Insurance Services,Grandview-Woodland,0.4,BAIXO RISCO,7426,243.0
+Insurance Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Insurance Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Insurance Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Insurance Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Insurance Services,Kitsilano,55.2,ALTO RISCO,11491,318.0
+Insurance Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Insurance Services,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Insurance Services,Oakridge,0.7,BAIXO RISCO,1889,79.0
+Insurance Services,Out of Town,6.9,BAIXO RISCO,2234,78.0
+Insurance Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Insurance Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Insurance Services,Shaughnessy,6.4,BAIXO RISCO,1194,60.0
+Insurance Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Insurance Services,Strathcona,7.8,BAIXO RISCO,5441,225.0
+Insurance Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Insurance Services,UBC,2.3,BAIXO RISCO,32,1.0
+Insurance Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Insurance Services,West End,0.0,BAIXO RISCO,9238,271.0
+Insurance Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Laboratory Services,Arbutus-Ridge,11.2,BAIXO RISCO,2373,84.0
+Laboratory Services,Downtown,49.3,BAIXO RISCO,41071,1217.0
+Laboratory Services,Dunbar-Southlands,11.0,BAIXO RISCO,2993,123.0
+Laboratory Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Laboratory Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Laboratory Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Laboratory Services,Kensington-Cedar Cottage,17.0,BAIXO RISCO,9124,307.0
+Laboratory Services,Kerrisdale,13.9,BAIXO RISCO,2320,74.0
+Laboratory Services,Killarney,13.2,BAIXO RISCO,3121,93.0
+Laboratory Services,Kitsilano,18.5,BAIXO RISCO,11491,318.0
+Laboratory Services,Marpole,53.9,ALTO RISCO,6010,213.0
+Laboratory Services,Mount Pleasant,29.4,BAIXO RISCO,10967,351.0
+Laboratory Services,Oakridge,18.2,BAIXO RISCO,1889,79.0
+Laboratory Services,Out of Town,20.8,BAIXO RISCO,2234,78.0
+Laboratory Services,Renfrew-Collingwood,0.7,BAIXO RISCO,7367,242.0
+Laboratory Services,Riley Park,14.5,BAIXO RISCO,5628,186.0
+Laboratory Services,Shaughnessy,15.3,BAIXO RISCO,1194,60.0
+Laboratory Services,South Cambie,14.7,BAIXO RISCO,1863,58.0
+Laboratory Services,Strathcona,35.3,BAIXO RISCO,5441,225.0
+Laboratory Services,Sunset,57.5,ALTO RISCO,6421,212.0
+Laboratory Services,UBC,12.1,BAIXO RISCO,32,1.0
+Laboratory Services,Victoria-Fraserview,20.4,BAIXO RISCO,3604,137.0
+Laboratory Services,West End,2.6,BAIXO RISCO,9238,271.0
+Laboratory Services,West Point Grey,0.4,BAIXO RISCO,2158,91.0
+Laundry Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Laundry Services,Downtown,33.1,BAIXO RISCO,41071,1217.0
+Laundry Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Laundry Services,Fairview,51.6,ALTO RISCO,13609,329.0
+Laundry Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Laundry Services,Hastings-Sunrise,46.4,BAIXO RISCO,5798,202.0
+Laundry Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Laundry Services,Kerrisdale,9.6,BAIXO RISCO,2320,74.0
+Laundry Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Laundry Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Laundry Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Laundry Services,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Laundry Services,Oakridge,15.0,BAIXO RISCO,1889,79.0
+Laundry Services,Out of Town,12.0,BAIXO RISCO,2234,78.0
+Laundry Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Laundry Services,Riley Park,58.2,ALTO RISCO,5628,186.0
+Laundry Services,Shaughnessy,7.9,BAIXO RISCO,1194,60.0
+Laundry Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Laundry Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Laundry Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Laundry Services,UBC,6.0,BAIXO RISCO,32,1.0
+Laundry Services,Victoria-Fraserview,4.3,BAIXO RISCO,3604,137.0
+Laundry Services,West End,0.0,BAIXO RISCO,9238,271.0
+Laundry Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Legal Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Legal Services,Downtown,23.7,BAIXO RISCO,41071,1217.0
+Legal Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Legal Services,Fairview,20.5,BAIXO RISCO,13609,329.0
+Legal Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Legal Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Legal Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Legal Services,Kerrisdale,38.7,BAIXO RISCO,2320,74.0
+Legal Services,Killarney,1.4,BAIXO RISCO,3121,93.0
+Legal Services,Kitsilano,74.5,ALTO RISCO,11491,318.0
+Legal Services,Marpole,32.7,BAIXO RISCO,6010,213.0
+Legal Services,Mount Pleasant,70.3,ALTO RISCO,10967,351.0
+Legal Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Legal Services,Out of Town,1.9,BAIXO RISCO,2234,78.0
+Legal Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Legal Services,Riley Park,44.2,BAIXO RISCO,5628,186.0
+Legal Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Legal Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Legal Services,Strathcona,0.4,BAIXO RISCO,5441,225.0
+Legal Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Legal Services,UBC,10.9,BAIXO RISCO,32,1.0
+Legal Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Legal Services,West End,35.4,BAIXO RISCO,9238,271.0
+Legal Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Limited Service Food Establishment,Arbutus-Ridge,56.0,ALTO RISCO,2373,84.0
+Limited Service Food Establishment,Downtown,45.2,BAIXO RISCO,41071,1217.0
+Limited Service Food Establishment,Dunbar-Southlands,31.5,BAIXO RISCO,2993,123.0
+Limited Service Food Establishment,Fairview,51.2,ALTO RISCO,13609,329.0
+Limited Service Food Establishment,Grandview-Woodland,22.8,BAIXO RISCO,7426,243.0
+Limited Service Food Establishment,Hastings-Sunrise,18.9,BAIXO RISCO,5798,202.0
+Limited Service Food Establishment,Kensington-Cedar Cottage,13.0,BAIXO RISCO,9124,307.0
+Limited Service Food Establishment,Kerrisdale,55.9,ALTO RISCO,2320,74.0
+Limited Service Food Establishment,Killarney,25.8,BAIXO RISCO,3121,93.0
+Limited Service Food Establishment,Kitsilano,50.2,ALTO RISCO,11491,318.0
+Limited Service Food Establishment,Marpole,46.4,BAIXO RISCO,6010,213.0
+Limited Service Food Establishment,Mount Pleasant,61.4,ALTO RISCO,10967,351.0
+Limited Service Food Establishment,Oakridge,70.5,ALTO RISCO,1889,79.0
+Limited Service Food Establishment,Out of Town,13.0,BAIXO RISCO,2234,78.0
+Limited Service Food Establishment,Renfrew-Collingwood,16.8,BAIXO RISCO,7367,242.0
+Limited Service Food Establishment,Riley Park,39.1,BAIXO RISCO,5628,186.0
+Limited Service Food Establishment,Shaughnessy,55.5,ALTO RISCO,1194,60.0
+Limited Service Food Establishment,South Cambie,52.6,ALTO RISCO,1863,58.0
+Limited Service Food Establishment,Strathcona,50.0,ALTO RISCO,5441,225.0
+Limited Service Food Establishment,Sunset,16.2,BAIXO RISCO,6421,212.0
+Limited Service Food Establishment,UBC,27.9,BAIXO RISCO,32,1.0
+Limited Service Food Establishment,Victoria-Fraserview,63.0,ALTO RISCO,3604,137.0
+Limited Service Food Establishment,West End,54.3,ALTO RISCO,9238,271.0
+Limited Service Food Establishment,West Point Grey,31.2,BAIXO RISCO,2158,91.0
+Liquor Establishment,Arbutus-Ridge,7.9,BAIXO RISCO,2373,84.0
+Liquor Establishment,Downtown,52.0,ALTO RISCO,41071,1217.0
+Liquor Establishment,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Liquor Establishment,Fairview,38.4,BAIXO RISCO,13609,329.0
+Liquor Establishment,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Liquor Establishment,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Liquor Establishment,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Liquor Establishment,Kerrisdale,1.9,BAIXO RISCO,2320,74.0
+Liquor Establishment,Killarney,0.4,BAIXO RISCO,3121,93.0
+Liquor Establishment,Kitsilano,33.7,BAIXO RISCO,11491,318.0
+Liquor Establishment,Marpole,53.1,ALTO RISCO,6010,213.0
+Liquor Establishment,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Liquor Establishment,Oakridge,17.7,BAIXO RISCO,1889,79.0
+Liquor Establishment,Out of Town,14.2,BAIXO RISCO,2234,78.0
+Liquor Establishment,Renfrew-Collingwood,0.7,BAIXO RISCO,7367,242.0
+Liquor Establishment,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Liquor Establishment,Shaughnessy,2.3,BAIXO RISCO,1194,60.0
+Liquor Establishment,South Cambie,5.6,BAIXO RISCO,1863,58.0
+Liquor Establishment,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Liquor Establishment,Sunset,2.2,BAIXO RISCO,6421,212.0
+Liquor Establishment,UBC,6.7,BAIXO RISCO,32,1.0
+Liquor Establishment,Victoria-Fraserview,12.5,BAIXO RISCO,3604,137.0
+Liquor Establishment,West End,27.4,BAIXO RISCO,9238,271.0
+Liquor Establishment,West Point Grey,9.4,BAIXO RISCO,2158,91.0
+Liquor License Application,Arbutus-Ridge,39.0,BAIXO RISCO,2373,84.0
+Liquor License Application,Downtown,77.1,ALTO RISCO,41071,1217.0
+Liquor License Application,Dunbar-Southlands,37.7,BAIXO RISCO,2993,123.0
+Liquor License Application,Fairview,51.3,ALTO RISCO,13609,329.0
+Liquor License Application,Grandview-Woodland,78.6,ALTO RISCO,7426,243.0
+Liquor License Application,Hastings-Sunrise,15.9,BAIXO RISCO,5798,202.0
+Liquor License Application,Kensington-Cedar Cottage,0.4,BAIXO RISCO,9124,307.0
+Liquor License Application,Kerrisdale,37.1,BAIXO RISCO,2320,74.0
+Liquor License Application,Killarney,13.6,BAIXO RISCO,3121,93.0
+Liquor License Application,Kitsilano,85.1,ALTO RISCO,11491,318.0
+Liquor License Application,Marpole,5.8,BAIXO RISCO,6010,213.0
+Liquor License Application,Mount Pleasant,72.2,ALTO RISCO,10967,351.0
+Liquor License Application,Oakridge,64.1,ALTO RISCO,1889,79.0
+Liquor License Application,Out of Town,36.9,BAIXO RISCO,2234,78.0
+Liquor License Application,Renfrew-Collingwood,39.8,BAIXO RISCO,7367,242.0
+Liquor License Application,Riley Park,62.3,ALTO RISCO,5628,186.0
+Liquor License Application,Shaughnessy,35.5,BAIXO RISCO,1194,60.0
+Liquor License Application,South Cambie,14.3,BAIXO RISCO,1863,58.0
+Liquor License Application,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Liquor License Application,Sunset,39.2,BAIXO RISCO,6421,212.0
+Liquor License Application,UBC,38.9,BAIXO RISCO,32,1.0
+Liquor License Application,Victoria-Fraserview,36.2,BAIXO RISCO,3604,137.0
+Liquor License Application,West End,77.0,ALTO RISCO,9238,271.0
+Liquor License Application,West Point Grey,35.3,BAIXO RISCO,2158,91.0
+Liquor Retail Store,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Liquor Retail Store,Downtown,34.5,BAIXO RISCO,41071,1217.0
+Liquor Retail Store,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Liquor Retail Store,Fairview,0.0,BAIXO RISCO,13609,329.0
+Liquor Retail Store,Grandview-Woodland,54.8,ALTO RISCO,7426,243.0
+Liquor Retail Store,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Liquor Retail Store,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Liquor Retail Store,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Liquor Retail Store,Killarney,0.0,BAIXO RISCO,3121,93.0
+Liquor Retail Store,Kitsilano,39.7,BAIXO RISCO,11491,318.0
+Liquor Retail Store,Marpole,0.0,BAIXO RISCO,6010,213.0
+Liquor Retail Store,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Liquor Retail Store,Oakridge,1.7,BAIXO RISCO,1889,79.0
+Liquor Retail Store,Out of Town,12.6,BAIXO RISCO,2234,78.0
+Liquor Retail Store,Renfrew-Collingwood,0.3,BAIXO RISCO,7367,242.0
+Liquor Retail Store,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Liquor Retail Store,Shaughnessy,9.9,BAIXO RISCO,1194,60.0
+Liquor Retail Store,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Liquor Retail Store,Strathcona,51.3,ALTO RISCO,5441,225.0
+Liquor Retail Store,Sunset,0.0,BAIXO RISCO,6421,212.0
+Liquor Retail Store,UBC,5.4,BAIXO RISCO,32,1.0
+Liquor Retail Store,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Liquor Retail Store,West End,0.0,BAIXO RISCO,9238,271.0
+Liquor Retail Store,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Logistics Services,Arbutus-Ridge,1.1,BAIXO RISCO,2373,84.0
+Logistics Services,Downtown,55.6,ALTO RISCO,41071,1217.0
+Logistics Services,Dunbar-Southlands,1.6,BAIXO RISCO,2993,123.0
+Logistics Services,Fairview,67.6,ALTO RISCO,13609,329.0
+Logistics Services,Grandview-Woodland,73.6,ALTO RISCO,7426,243.0
+Logistics Services,Hastings-Sunrise,53.6,ALTO RISCO,5798,202.0
+Logistics Services,Kensington-Cedar Cottage,43.2,BAIXO RISCO,9124,307.0
+Logistics Services,Kerrisdale,11.3,BAIXO RISCO,2320,74.0
+Logistics Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Logistics Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Logistics Services,Marpole,44.2,BAIXO RISCO,6010,213.0
+Logistics Services,Mount Pleasant,40.4,BAIXO RISCO,10967,351.0
+Logistics Services,Oakridge,0.6,BAIXO RISCO,1889,79.0
+Logistics Services,Out of Town,1.4,BAIXO RISCO,2234,78.0
+Logistics Services,Renfrew-Collingwood,50.1,ALTO RISCO,7367,242.0
+Logistics Services,Riley Park,54.1,ALTO RISCO,5628,186.0
+Logistics Services,Shaughnessy,28.0,BAIXO RISCO,1194,60.0
+Logistics Services,South Cambie,0.6,BAIXO RISCO,1863,58.0
+Logistics Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Logistics Services,Sunset,54.3,ALTO RISCO,6421,212.0
+Logistics Services,UBC,30.2,BAIXO RISCO,32,1.0
+Logistics Services,Victoria-Fraserview,83.9,ALTO RISCO,3604,137.0
+Logistics Services,West End,46.7,BAIXO RISCO,9238,271.0
+Logistics Services,West Point Grey,3.0,BAIXO RISCO,2158,91.0
+Long-term Rental,Arbutus-Ridge,23.6,BAIXO RISCO,2373,84.0
+Long-term Rental,Downtown,30.5,BAIXO RISCO,41071,1217.0
+Long-term Rental,Dunbar-Southlands,38.4,BAIXO RISCO,2993,123.0
+Long-term Rental,Fairview,23.1,BAIXO RISCO,13609,329.0
+Long-term Rental,Grandview-Woodland,30.1,BAIXO RISCO,7426,243.0
+Long-term Rental,Hastings-Sunrise,33.6,BAIXO RISCO,5798,202.0
+Long-term Rental,Kensington-Cedar Cottage,35.9,BAIXO RISCO,9124,307.0
+Long-term Rental,Kerrisdale,24.7,BAIXO RISCO,2320,74.0
+Long-term Rental,Killarney,40.0,BAIXO RISCO,3121,93.0
+Long-term Rental,Kitsilano,27.1,BAIXO RISCO,11491,318.0
+Long-term Rental,Marpole,26.9,BAIXO RISCO,6010,213.0
+Long-term Rental,Mount Pleasant,26.7,BAIXO RISCO,10967,351.0
+Long-term Rental,Oakridge,21.6,BAIXO RISCO,1889,79.0
+Long-term Rental,Out of Town,29.6,BAIXO RISCO,2234,78.0
+Long-term Rental,Renfrew-Collingwood,28.3,BAIXO RISCO,7367,242.0
+Long-term Rental,Riley Park,37.4,BAIXO RISCO,5628,186.0
+Long-term Rental,Shaughnessy,53.5,ALTO RISCO,1194,60.0
+Long-term Rental,South Cambie,11.2,BAIXO RISCO,1863,58.0
+Long-term Rental,Strathcona,37.4,BAIXO RISCO,5441,225.0
+Long-term Rental,Sunset,22.2,BAIXO RISCO,6421,212.0
+Long-term Rental,UBC,30.8,BAIXO RISCO,32,1.0
+Long-term Rental,Victoria-Fraserview,37.3,BAIXO RISCO,3604,137.0
+Long-term Rental,West End,28.5,BAIXO RISCO,9238,271.0
+Long-term Rental,West Point Grey,46.2,BAIXO RISCO,2158,91.0
+Marina Operator,Arbutus-Ridge,2.4,BAIXO RISCO,2373,84.0
+Marina Operator,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Marina Operator,Dunbar-Southlands,1.5,BAIXO RISCO,2993,123.0
+Marina Operator,Fairview,0.0,BAIXO RISCO,13609,329.0
+Marina Operator,Grandview-Woodland,4.6,BAIXO RISCO,7426,243.0
+Marina Operator,Hastings-Sunrise,4.1,BAIXO RISCO,5798,202.0
+Marina Operator,Kensington-Cedar Cottage,7.0,BAIXO RISCO,9124,307.0
+Marina Operator,Kerrisdale,4.0,BAIXO RISCO,2320,74.0
+Marina Operator,Killarney,2.6,BAIXO RISCO,3121,93.0
+Marina Operator,Kitsilano,8.5,BAIXO RISCO,11491,318.0
+Marina Operator,Marpole,12.1,BAIXO RISCO,6010,213.0
+Marina Operator,Mount Pleasant,9.1,BAIXO RISCO,10967,351.0
+Marina Operator,Oakridge,9.2,BAIXO RISCO,1889,79.0
+Marina Operator,Out of Town,4.7,BAIXO RISCO,2234,78.0
+Marina Operator,Renfrew-Collingwood,4.9,BAIXO RISCO,7367,242.0
+Marina Operator,Riley Park,4.2,BAIXO RISCO,5628,186.0
+Marina Operator,Shaughnessy,4.0,BAIXO RISCO,1194,60.0
+Marina Operator,South Cambie,4.2,BAIXO RISCO,1863,58.0
+Marina Operator,Strathcona,15.0,BAIXO RISCO,5441,225.0
+Marina Operator,Sunset,3.8,BAIXO RISCO,6421,212.0
+Marina Operator,UBC,0.9,BAIXO RISCO,32,1.0
+Marina Operator,Victoria-Fraserview,8.3,BAIXO RISCO,3604,137.0
+Marina Operator,West End,4.9,BAIXO RISCO,9238,271.0
+Marina Operator,West Point Grey,2.4,BAIXO RISCO,2158,91.0
+Marine Service Station,Arbutus-Ridge,10.7,BAIXO RISCO,2373,84.0
+Marine Service Station,Downtown,30.8,BAIXO RISCO,41071,1217.0
+Marine Service Station,Dunbar-Southlands,5.9,BAIXO RISCO,2993,123.0
+Marine Service Station,Fairview,23.3,BAIXO RISCO,13609,329.0
+Marine Service Station,Grandview-Woodland,15.4,BAIXO RISCO,7426,243.0
+Marine Service Station,Hastings-Sunrise,14.8,BAIXO RISCO,5798,202.0
+Marine Service Station,Kensington-Cedar Cottage,18.8,BAIXO RISCO,9124,307.0
+Marine Service Station,Kerrisdale,13.2,BAIXO RISCO,2320,74.0
+Marine Service Station,Killarney,11.0,BAIXO RISCO,3121,93.0
+Marine Service Station,Kitsilano,0.4,BAIXO RISCO,11491,318.0
+Marine Service Station,Marpole,32.4,BAIXO RISCO,6010,213.0
+Marine Service Station,Mount Pleasant,27.4,BAIXO RISCO,10967,351.0
+Marine Service Station,Oakridge,17.4,BAIXO RISCO,1889,79.0
+Marine Service Station,Out of Town,9.7,BAIXO RISCO,2234,78.0
+Marine Service Station,Renfrew-Collingwood,21.6,BAIXO RISCO,7367,242.0
+Marine Service Station,Riley Park,16.3,BAIXO RISCO,5628,186.0
+Marine Service Station,Shaughnessy,12.4,BAIXO RISCO,1194,60.0
+Marine Service Station,South Cambie,16.1,BAIXO RISCO,1863,58.0
+Marine Service Station,Strathcona,28.8,BAIXO RISCO,5441,225.0
+Marine Service Station,Sunset,20.5,BAIXO RISCO,6421,212.0
+Marine Service Station,UBC,7.6,BAIXO RISCO,32,1.0
+Marine Service Station,Victoria-Fraserview,21.9,BAIXO RISCO,3604,137.0
+Marine Service Station,West End,18.1,BAIXO RISCO,9238,271.0
+Marine Service Station,West Point Grey,9.4,BAIXO RISCO,2158,91.0
+Marketing Public Relations Advertising and Event Promotion Services,Arbutus-Ridge,15.8,BAIXO RISCO,2373,84.0
+Marketing Public Relations Advertising and Event Promotion Services,Downtown,60.8,ALTO RISCO,41071,1217.0
+Marketing Public Relations Advertising and Event Promotion Services,Dunbar-Southlands,51.8,ALTO RISCO,2993,123.0
+Marketing Public Relations Advertising and Event Promotion Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Marketing Public Relations Advertising and Event Promotion Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Marketing Public Relations Advertising and Event Promotion Services,Hastings-Sunrise,49.4,BAIXO RISCO,5798,202.0
+Marketing Public Relations Advertising and Event Promotion Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Marketing Public Relations Advertising and Event Promotion Services,Kerrisdale,56.8,ALTO RISCO,2320,74.0
+Marketing Public Relations Advertising and Event Promotion Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Marketing Public Relations Advertising and Event Promotion Services,Kitsilano,40.9,BAIXO RISCO,11491,318.0
+Marketing Public Relations Advertising and Event Promotion Services,Marpole,49.8,BAIXO RISCO,6010,213.0
+Marketing Public Relations Advertising and Event Promotion Services,Mount Pleasant,56.8,ALTO RISCO,10967,351.0
+Marketing Public Relations Advertising and Event Promotion Services,Oakridge,60.2,ALTO RISCO,1889,79.0
+Marketing Public Relations Advertising and Event Promotion Services,Out of Town,45.7,BAIXO RISCO,2234,78.0
+Marketing Public Relations Advertising and Event Promotion Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Marketing Public Relations Advertising and Event Promotion Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Marketing Public Relations Advertising and Event Promotion Services,Shaughnessy,1.6,BAIXO RISCO,1194,60.0
+Marketing Public Relations Advertising and Event Promotion Services,South Cambie,0.2,BAIXO RISCO,1863,58.0
+Marketing Public Relations Advertising and Event Promotion Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Marketing Public Relations Advertising and Event Promotion Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Marketing Public Relations Advertising and Event Promotion Services,UBC,17.0,BAIXO RISCO,32,1.0
+Marketing Public Relations Advertising and Event Promotion Services,Victoria-Fraserview,54.6,ALTO RISCO,3604,137.0
+Marketing Public Relations Advertising and Event Promotion Services,West End,0.0,BAIXO RISCO,9238,271.0
+Marketing Public Relations Advertising and Event Promotion Services,West Point Grey,1.8,BAIXO RISCO,2158,91.0
+Mining Services,Arbutus-Ridge,5.1,BAIXO RISCO,2373,84.0
+Mining Services,Downtown,37.2,BAIXO RISCO,41071,1217.0
+Mining Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Mining Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Mining Services,Grandview-Woodland,2.6,BAIXO RISCO,7426,243.0
+Mining Services,Hastings-Sunrise,7.4,BAIXO RISCO,5798,202.0
+Mining Services,Kensington-Cedar Cottage,7.8,BAIXO RISCO,9124,307.0
+Mining Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Mining Services,Killarney,4.3,BAIXO RISCO,3121,93.0
+Mining Services,Kitsilano,10.3,BAIXO RISCO,11491,318.0
+Mining Services,Marpole,18.7,BAIXO RISCO,6010,213.0
+Mining Services,Mount Pleasant,0.8,BAIXO RISCO,10967,351.0
+Mining Services,Oakridge,11.1,BAIXO RISCO,1889,79.0
+Mining Services,Out of Town,1.9,BAIXO RISCO,2234,78.0
+Mining Services,Renfrew-Collingwood,7.4,BAIXO RISCO,7367,242.0
+Mining Services,Riley Park,6.4,BAIXO RISCO,5628,186.0
+Mining Services,Shaughnessy,5.9,BAIXO RISCO,1194,60.0
+Mining Services,South Cambie,7.1,BAIXO RISCO,1863,58.0
+Mining Services,Strathcona,19.1,BAIXO RISCO,5441,225.0
+Mining Services,Sunset,6.7,BAIXO RISCO,6421,212.0
+Mining Services,UBC,3.9,BAIXO RISCO,32,1.0
+Mining Services,Victoria-Fraserview,10.1,BAIXO RISCO,3604,137.0
+Mining Services,West End,0.0,BAIXO RISCO,9238,271.0
+Mining Services,West Point Grey,3.7,BAIXO RISCO,2158,91.0
+Money Services,Arbutus-Ridge,32.3,BAIXO RISCO,2373,84.0
+Money Services,Downtown,50.5,ALTO RISCO,41071,1217.0
+Money Services,Dunbar-Southlands,6.4,BAIXO RISCO,2993,123.0
+Money Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Money Services,Grandview-Woodland,74.9,ALTO RISCO,7426,243.0
+Money Services,Hastings-Sunrise,49.4,BAIXO RISCO,5798,202.0
+Money Services,Kensington-Cedar Cottage,81.0,ALTO RISCO,9124,307.0
+Money Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Money Services,Killarney,52.6,ALTO RISCO,3121,93.0
+Money Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Money Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Money Services,Mount Pleasant,34.1,BAIXO RISCO,10967,351.0
+Money Services,Oakridge,63.0,ALTO RISCO,1889,79.0
+Money Services,Out of Town,35.4,BAIXO RISCO,2234,78.0
+Money Services,Renfrew-Collingwood,46.2,BAIXO RISCO,7367,242.0
+Money Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Money Services,Shaughnessy,0.8,BAIXO RISCO,1194,60.0
+Money Services,South Cambie,14.5,BAIXO RISCO,1863,58.0
+Money Services,Strathcona,81.4,ALTO RISCO,5441,225.0
+Money Services,Sunset,45.5,BAIXO RISCO,6421,212.0
+Money Services,UBC,33.9,BAIXO RISCO,32,1.0
+Money Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Money Services,West End,66.8,ALTO RISCO,9238,271.0
+Money Services,West Point Grey,76.9,ALTO RISCO,2158,91.0
+Non-Food Manufacturer Assembler and Processor,Arbutus-Ridge,8.3,BAIXO RISCO,2373,84.0
+Non-Food Manufacturer Assembler and Processor,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Non-Food Manufacturer Assembler and Processor,Dunbar-Southlands,7.8,BAIXO RISCO,2993,123.0
+Non-Food Manufacturer Assembler and Processor,Fairview,0.0,BAIXO RISCO,13609,329.0
+Non-Food Manufacturer Assembler and Processor,Grandview-Woodland,39.6,BAIXO RISCO,7426,243.0
+Non-Food Manufacturer Assembler and Processor,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Non-Food Manufacturer Assembler and Processor,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Non-Food Manufacturer Assembler and Processor,Kerrisdale,10.8,BAIXO RISCO,2320,74.0
+Non-Food Manufacturer Assembler and Processor,Killarney,9.6,BAIXO RISCO,3121,93.0
+Non-Food Manufacturer Assembler and Processor,Kitsilano,0.5,BAIXO RISCO,11491,318.0
+Non-Food Manufacturer Assembler and Processor,Marpole,62.4,ALTO RISCO,6010,213.0
+Non-Food Manufacturer Assembler and Processor,Mount Pleasant,36.3,BAIXO RISCO,10967,351.0
+Non-Food Manufacturer Assembler and Processor,Oakridge,17.0,BAIXO RISCO,1889,79.0
+Non-Food Manufacturer Assembler and Processor,Out of Town,12.1,BAIXO RISCO,2234,78.0
+Non-Food Manufacturer Assembler and Processor,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Non-Food Manufacturer Assembler and Processor,Riley Park,1.9,BAIXO RISCO,5628,186.0
+Non-Food Manufacturer Assembler and Processor,Shaughnessy,12.1,BAIXO RISCO,1194,60.0
+Non-Food Manufacturer Assembler and Processor,South Cambie,3.8,BAIXO RISCO,1863,58.0
+Non-Food Manufacturer Assembler and Processor,Strathcona,63.3,ALTO RISCO,5441,225.0
+Non-Food Manufacturer Assembler and Processor,Sunset,19.0,BAIXO RISCO,6421,212.0
+Non-Food Manufacturer Assembler and Processor,UBC,9.8,BAIXO RISCO,32,1.0
+Non-Food Manufacturer Assembler and Processor,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Non-Food Manufacturer Assembler and Processor,West End,12.1,BAIXO RISCO,9238,271.0
+Non-Food Manufacturer Assembler and Processor,West Point Grey,0.1,BAIXO RISCO,2158,91.0
+Oil Gas and Other Fuels,Arbutus-Ridge,9.9,BAIXO RISCO,2373,84.0
+Oil Gas and Other Fuels,Downtown,1.0,BAIXO RISCO,41071,1217.0
+Oil Gas and Other Fuels,Dunbar-Southlands,7.5,BAIXO RISCO,2993,123.0
+Oil Gas and Other Fuels,Fairview,23.0,BAIXO RISCO,13609,329.0
+Oil Gas and Other Fuels,Grandview-Woodland,15.7,BAIXO RISCO,7426,243.0
+Oil Gas and Other Fuels,Hastings-Sunrise,15.2,BAIXO RISCO,5798,202.0
+Oil Gas and Other Fuels,Kensington-Cedar Cottage,20.0,BAIXO RISCO,9124,307.0
+Oil Gas and Other Fuels,Kerrisdale,13.1,BAIXO RISCO,2320,74.0
+Oil Gas and Other Fuels,Killarney,12.1,BAIXO RISCO,3121,93.0
+Oil Gas and Other Fuels,Kitsilano,23.1,BAIXO RISCO,11491,318.0
+Oil Gas and Other Fuels,Marpole,33.7,BAIXO RISCO,6010,213.0
+Oil Gas and Other Fuels,Mount Pleasant,28.3,BAIXO RISCO,10967,351.0
+Oil Gas and Other Fuels,Oakridge,17.4,BAIXO RISCO,1889,79.0
+Oil Gas and Other Fuels,Out of Town,21.4,BAIXO RISCO,2234,78.0
+Oil Gas and Other Fuels,Renfrew-Collingwood,22.9,BAIXO RISCO,7367,242.0
+Oil Gas and Other Fuels,Riley Park,16.1,BAIXO RISCO,5628,186.0
+Oil Gas and Other Fuels,Shaughnessy,12.4,BAIXO RISCO,1194,60.0
+Oil Gas and Other Fuels,South Cambie,16.8,BAIXO RISCO,1863,58.0
+Oil Gas and Other Fuels,Strathcona,29.0,BAIXO RISCO,5441,225.0
+Oil Gas and Other Fuels,Sunset,19.9,BAIXO RISCO,6421,212.0
+Oil Gas and Other Fuels,UBC,7.0,BAIXO RISCO,32,1.0
+Oil Gas and Other Fuels,Victoria-Fraserview,24.0,BAIXO RISCO,3604,137.0
+Oil Gas and Other Fuels,West End,20.3,BAIXO RISCO,9238,271.0
+Oil Gas and Other Fuels,West Point Grey,10.0,BAIXO RISCO,2158,91.0
+Parking Area / Garage,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Parking Area / Garage,Downtown,20.8,BAIXO RISCO,41071,1217.0
+Parking Area / Garage,Dunbar-Southlands,1.7,BAIXO RISCO,2993,123.0
+Parking Area / Garage,Fairview,40.8,BAIXO RISCO,13609,329.0
+Parking Area / Garage,Grandview-Woodland,71.2,ALTO RISCO,7426,243.0
+Parking Area / Garage,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Parking Area / Garage,Kensington-Cedar Cottage,39.9,BAIXO RISCO,9124,307.0
+Parking Area / Garage,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Parking Area / Garage,Killarney,0.4,BAIXO RISCO,3121,93.0
+Parking Area / Garage,Kitsilano,39.8,BAIXO RISCO,11491,318.0
+Parking Area / Garage,Marpole,0.0,BAIXO RISCO,6010,213.0
+Parking Area / Garage,Mount Pleasant,72.2,ALTO RISCO,10967,351.0
+Parking Area / Garage,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Parking Area / Garage,Out of Town,21.1,BAIXO RISCO,2234,78.0
+Parking Area / Garage,Renfrew-Collingwood,46.5,BAIXO RISCO,7367,242.0
+Parking Area / Garage,Riley Park,55.5,ALTO RISCO,5628,186.0
+Parking Area / Garage,Shaughnessy,0.8,BAIXO RISCO,1194,60.0
+Parking Area / Garage,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Parking Area / Garage,Strathcona,56.8,ALTO RISCO,5441,225.0
+Parking Area / Garage,Sunset,0.0,BAIXO RISCO,6421,212.0
+Parking Area / Garage,UBC,18.6,BAIXO RISCO,32,1.0
+Parking Area / Garage,Victoria-Fraserview,22.4,BAIXO RISCO,3604,137.0
+Parking Area / Garage,West End,38.4,BAIXO RISCO,9238,271.0
+Parking Area / Garage,West Point Grey,49.8,BAIXO RISCO,2158,91.0
+Personal Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Personal Services,Downtown,68.4,ALTO RISCO,41071,1217.0
+Personal Services,Dunbar-Southlands,0.2,BAIXO RISCO,2993,123.0
+Personal Services,Fairview,81.6,ALTO RISCO,13609,329.0
+Personal Services,Grandview-Woodland,82.6,ALTO RISCO,7426,243.0
+Personal Services,Hastings-Sunrise,68.4,ALTO RISCO,5798,202.0
+Personal Services,Kensington-Cedar Cottage,73.1,ALTO RISCO,9124,307.0
+Personal Services,Kerrisdale,56.3,ALTO RISCO,2320,74.0
+Personal Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Personal Services,Kitsilano,31.7,BAIXO RISCO,11491,318.0
+Personal Services,Marpole,77.7,ALTO RISCO,6010,213.0
+Personal Services,Mount Pleasant,55.0,ALTO RISCO,10967,351.0
+Personal Services,Oakridge,52.1,ALTO RISCO,1889,79.0
+Personal Services,Out of Town,41.2,BAIXO RISCO,2234,78.0
+Personal Services,Renfrew-Collingwood,32.0,BAIXO RISCO,7367,242.0
+Personal Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Personal Services,Shaughnessy,9.6,BAIXO RISCO,1194,60.0
+Personal Services,South Cambie,34.7,BAIXO RISCO,1863,58.0
+Personal Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Personal Services,Sunset,49.1,BAIXO RISCO,6421,212.0
+Personal Services,UBC,5.9,BAIXO RISCO,32,1.0
+Personal Services,Victoria-Fraserview,71.7,ALTO RISCO,3604,137.0
+Personal Services,West End,25.8,BAIXO RISCO,9238,271.0
+Personal Services,West Point Grey,0.3,BAIXO RISCO,2158,91.0
+Pharmacy,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Pharmacy,Downtown,37.5,BAIXO RISCO,41071,1217.0
+Pharmacy,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Pharmacy,Fairview,0.0,BAIXO RISCO,13609,329.0
+Pharmacy,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Pharmacy,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Pharmacy,Kensington-Cedar Cottage,65.4,ALTO RISCO,9124,307.0
+Pharmacy,Kerrisdale,53.1,ALTO RISCO,2320,74.0
+Pharmacy,Killarney,0.0,BAIXO RISCO,3121,93.0
+Pharmacy,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Pharmacy,Marpole,0.0,BAIXO RISCO,6010,213.0
+Pharmacy,Mount Pleasant,45.4,BAIXO RISCO,10967,351.0
+Pharmacy,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Pharmacy,Out of Town,18.2,BAIXO RISCO,2234,78.0
+Pharmacy,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Pharmacy,Riley Park,41.1,BAIXO RISCO,5628,186.0
+Pharmacy,Shaughnessy,12.9,BAIXO RISCO,1194,60.0
+Pharmacy,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Pharmacy,Strathcona,38.8,BAIXO RISCO,5441,225.0
+Pharmacy,Sunset,0.0,BAIXO RISCO,6421,212.0
+Pharmacy,UBC,12.2,BAIXO RISCO,32,1.0
+Pharmacy,Victoria-Fraserview,48.1,BAIXO RISCO,3604,137.0
+Pharmacy,West End,0.0,BAIXO RISCO,9238,271.0
+Pharmacy,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Photography Production and Rehearsal Studio,Arbutus-Ridge,0.2,BAIXO RISCO,2373,84.0
+Photography Production and Rehearsal Studio,Downtown,53.1,ALTO RISCO,41071,1217.0
+Photography Production and Rehearsal Studio,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Photography Production and Rehearsal Studio,Fairview,66.7,ALTO RISCO,13609,329.0
+Photography Production and Rehearsal Studio,Grandview-Woodland,18.2,BAIXO RISCO,7426,243.0
+Photography Production and Rehearsal Studio,Hastings-Sunrise,47.5,BAIXO RISCO,5798,202.0
+Photography Production and Rehearsal Studio,Kensington-Cedar Cottage,40.7,BAIXO RISCO,9124,307.0
+Photography Production and Rehearsal Studio,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Photography Production and Rehearsal Studio,Killarney,0.0,BAIXO RISCO,3121,93.0
+Photography Production and Rehearsal Studio,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Photography Production and Rehearsal Studio,Marpole,61.2,ALTO RISCO,6010,213.0
+Photography Production and Rehearsal Studio,Mount Pleasant,42.3,BAIXO RISCO,10967,351.0
+Photography Production and Rehearsal Studio,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Photography Production and Rehearsal Studio,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Photography Production and Rehearsal Studio,Renfrew-Collingwood,29.5,BAIXO RISCO,7367,242.0
+Photography Production and Rehearsal Studio,Riley Park,51.5,ALTO RISCO,5628,186.0
+Photography Production and Rehearsal Studio,Shaughnessy,2.7,BAIXO RISCO,1194,60.0
+Photography Production and Rehearsal Studio,South Cambie,0.5,BAIXO RISCO,1863,58.0
+Photography Production and Rehearsal Studio,Strathcona,76.4,ALTO RISCO,5441,225.0
+Photography Production and Rehearsal Studio,Sunset,37.0,BAIXO RISCO,6421,212.0
+Photography Production and Rehearsal Studio,UBC,15.2,BAIXO RISCO,32,1.0
+Photography Production and Rehearsal Studio,Victoria-Fraserview,0.8,BAIXO RISCO,3604,137.0
+Photography Production and Rehearsal Studio,West End,52.6,ALTO RISCO,9238,271.0
+Photography Production and Rehearsal Studio,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Printing Imaging and Photo Services,Arbutus-Ridge,14.0,BAIXO RISCO,2373,84.0
+Printing Imaging and Photo Services,Downtown,69.7,ALTO RISCO,41071,1217.0
+Printing Imaging and Photo Services,Dunbar-Southlands,12.8,BAIXO RISCO,2993,123.0
+Printing Imaging and Photo Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Printing Imaging and Photo Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Printing Imaging and Photo Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Printing Imaging and Photo Services,Kensington-Cedar Cottage,46.4,BAIXO RISCO,9124,307.0
+Printing Imaging and Photo Services,Kerrisdale,15.1,BAIXO RISCO,2320,74.0
+Printing Imaging and Photo Services,Killarney,0.5,BAIXO RISCO,3121,93.0
+Printing Imaging and Photo Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Printing Imaging and Photo Services,Marpole,50.8,ALTO RISCO,6010,213.0
+Printing Imaging and Photo Services,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Printing Imaging and Photo Services,Oakridge,2.5,BAIXO RISCO,1889,79.0
+Printing Imaging and Photo Services,Out of Town,2.3,BAIXO RISCO,2234,78.0
+Printing Imaging and Photo Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Printing Imaging and Photo Services,Riley Park,60.0,ALTO RISCO,5628,186.0
+Printing Imaging and Photo Services,Shaughnessy,15.5,BAIXO RISCO,1194,60.0
+Printing Imaging and Photo Services,South Cambie,17.0,BAIXO RISCO,1863,58.0
+Printing Imaging and Photo Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Printing Imaging and Photo Services,Sunset,38.1,BAIXO RISCO,6421,212.0
+Printing Imaging and Photo Services,UBC,15.0,BAIXO RISCO,32,1.0
+Printing Imaging and Photo Services,Victoria-Fraserview,3.7,BAIXO RISCO,3604,137.0
+Printing Imaging and Photo Services,West End,0.0,BAIXO RISCO,9238,271.0
+Printing Imaging and Photo Services,West Point Grey,12.4,BAIXO RISCO,2158,91.0
+Private School or College,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Private School or College,Downtown,25.4,BAIXO RISCO,41071,1217.0
+Private School or College,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Private School or College,Fairview,0.0,BAIXO RISCO,13609,329.0
+Private School or College,Grandview-Woodland,7.1,BAIXO RISCO,7426,243.0
+Private School or College,Hastings-Sunrise,0.4,BAIXO RISCO,5798,202.0
+Private School or College,Kensington-Cedar Cottage,0.2,BAIXO RISCO,9124,307.0
+Private School or College,Kerrisdale,0.6,BAIXO RISCO,2320,74.0
+Private School or College,Killarney,5.1,BAIXO RISCO,3121,93.0
+Private School or College,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Private School or College,Marpole,0.3,BAIXO RISCO,6010,213.0
+Private School or College,Mount Pleasant,16.3,BAIXO RISCO,10967,351.0
+Private School or College,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Private School or College,Out of Town,8.4,BAIXO RISCO,2234,78.0
+Private School or College,Renfrew-Collingwood,51.5,ALTO RISCO,7367,242.0
+Private School or College,Riley Park,0.4,BAIXO RISCO,5628,186.0
+Private School or College,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Private School or College,South Cambie,1.8,BAIXO RISCO,1863,58.0
+Private School or College,Strathcona,0.5,BAIXO RISCO,5441,225.0
+Private School or College,Sunset,3.3,BAIXO RISCO,6421,212.0
+Private School or College,UBC,4.6,BAIXO RISCO,32,1.0
+Private School or College,Victoria-Fraserview,2.3,BAIXO RISCO,3604,137.0
+Private School or College,West End,0.0,BAIXO RISCO,9238,271.0
+Private School or College,West Point Grey,0.7,BAIXO RISCO,2158,91.0
+Publishing and Journalism Services,Arbutus-Ridge,13.7,BAIXO RISCO,2373,84.0
+Publishing and Journalism Services,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Publishing and Journalism Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Publishing and Journalism Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Publishing and Journalism Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Publishing and Journalism Services,Hastings-Sunrise,1.6,BAIXO RISCO,5798,202.0
+Publishing and Journalism Services,Kensington-Cedar Cottage,0.7,BAIXO RISCO,9124,307.0
+Publishing and Journalism Services,Kerrisdale,14.8,BAIXO RISCO,2320,74.0
+Publishing and Journalism Services,Killarney,13.2,BAIXO RISCO,3121,93.0
+Publishing and Journalism Services,Kitsilano,60.9,ALTO RISCO,11491,318.0
+Publishing and Journalism Services,Marpole,55.2,ALTO RISCO,6010,213.0
+Publishing and Journalism Services,Mount Pleasant,67.0,ALTO RISCO,10967,351.0
+Publishing and Journalism Services,Oakridge,19.1,BAIXO RISCO,1889,79.0
+Publishing and Journalism Services,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Publishing and Journalism Services,Renfrew-Collingwood,59.9,ALTO RISCO,7367,242.0
+Publishing and Journalism Services,Riley Park,0.6,BAIXO RISCO,5628,186.0
+Publishing and Journalism Services,Shaughnessy,8.1,BAIXO RISCO,1194,60.0
+Publishing and Journalism Services,South Cambie,17.0,BAIXO RISCO,1863,58.0
+Publishing and Journalism Services,Strathcona,2.7,BAIXO RISCO,5441,225.0
+Publishing and Journalism Services,Sunset,18.3,BAIXO RISCO,6421,212.0
+Publishing and Journalism Services,UBC,13.6,BAIXO RISCO,32,1.0
+Publishing and Journalism Services,Victoria-Fraserview,22.3,BAIXO RISCO,3604,137.0
+Publishing and Journalism Services,West End,0.0,BAIXO RISCO,9238,271.0
+Publishing and Journalism Services,West Point Grey,1.5,BAIXO RISCO,2158,91.0
+Real Estate Services,Arbutus-Ridge,27.9,BAIXO RISCO,2373,84.0
+Real Estate Services,Downtown,45.6,BAIXO RISCO,41071,1217.0
+Real Estate Services,Dunbar-Southlands,60.8,ALTO RISCO,2993,123.0
+Real Estate Services,Fairview,30.4,BAIXO RISCO,13609,329.0
+Real Estate Services,Grandview-Woodland,38.7,BAIXO RISCO,7426,243.0
+Real Estate Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Real Estate Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Real Estate Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Real Estate Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Real Estate Services,Kitsilano,22.6,BAIXO RISCO,11491,318.0
+Real Estate Services,Marpole,51.2,ALTO RISCO,6010,213.0
+Real Estate Services,Mount Pleasant,51.8,ALTO RISCO,10967,351.0
+Real Estate Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Real Estate Services,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Real Estate Services,Renfrew-Collingwood,49.2,BAIXO RISCO,7367,242.0
+Real Estate Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Real Estate Services,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Real Estate Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Real Estate Services,Strathcona,70.8,ALTO RISCO,5441,225.0
+Real Estate Services,Sunset,38.4,BAIXO RISCO,6421,212.0
+Real Estate Services,UBC,0.9,BAIXO RISCO,32,1.0
+Real Estate Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Real Estate Services,West End,19.2,BAIXO RISCO,9238,271.0
+Real Estate Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Recycling and Resource Recovery Services,Arbutus-Ridge,18.8,BAIXO RISCO,2373,84.0
+Recycling and Resource Recovery Services,Downtown,6.1,BAIXO RISCO,41071,1217.0
+Recycling and Resource Recovery Services,Dunbar-Southlands,15.9,BAIXO RISCO,2993,123.0
+Recycling and Resource Recovery Services,Fairview,23.1,BAIXO RISCO,13609,329.0
+Recycling and Resource Recovery Services,Grandview-Woodland,58.0,ALTO RISCO,7426,243.0
+Recycling and Resource Recovery Services,Hastings-Sunrise,22.2,BAIXO RISCO,5798,202.0
+Recycling and Resource Recovery Services,Kensington-Cedar Cottage,18.7,BAIXO RISCO,9124,307.0
+Recycling and Resource Recovery Services,Kerrisdale,16.0,BAIXO RISCO,2320,74.0
+Recycling and Resource Recovery Services,Killarney,18.8,BAIXO RISCO,3121,93.0
+Recycling and Resource Recovery Services,Kitsilano,9.3,BAIXO RISCO,11491,318.0
+Recycling and Resource Recovery Services,Marpole,54.2,ALTO RISCO,6010,213.0
+Recycling and Resource Recovery Services,Mount Pleasant,0.7,BAIXO RISCO,10967,351.0
+Recycling and Resource Recovery Services,Oakridge,22.5,BAIXO RISCO,1889,79.0
+Recycling and Resource Recovery Services,Out of Town,74.0,ALTO RISCO,2234,78.0
+Recycling and Resource Recovery Services,Renfrew-Collingwood,6.2,BAIXO RISCO,7367,242.0
+Recycling and Resource Recovery Services,Riley Park,1.4,BAIXO RISCO,5628,186.0
+Recycling and Resource Recovery Services,Shaughnessy,20.0,BAIXO RISCO,1194,60.0
+Recycling and Resource Recovery Services,South Cambie,1.3,BAIXO RISCO,1863,58.0
+Recycling and Resource Recovery Services,Strathcona,0.4,BAIXO RISCO,5441,225.0
+Recycling and Resource Recovery Services,Sunset,0.7,BAIXO RISCO,6421,212.0
+Recycling and Resource Recovery Services,UBC,16.8,BAIXO RISCO,32,1.0
+Recycling and Resource Recovery Services,Victoria-Fraserview,25.4,BAIXO RISCO,3604,137.0
+Recycling and Resource Recovery Services,West End,22.4,BAIXO RISCO,9238,271.0
+Recycling and Resource Recovery Services,West Point Grey,67.9,ALTO RISCO,2158,91.0
+Rental Services,Arbutus-Ridge,7.0,BAIXO RISCO,2373,84.0
+Rental Services,Downtown,62.7,ALTO RISCO,41071,1217.0
+Rental Services,Dunbar-Southlands,1.0,BAIXO RISCO,2993,123.0
+Rental Services,Fairview,44.7,BAIXO RISCO,13609,329.0
+Rental Services,Grandview-Woodland,62.9,ALTO RISCO,7426,243.0
+Rental Services,Hastings-Sunrise,46.9,BAIXO RISCO,5798,202.0
+Rental Services,Kensington-Cedar Cottage,35.5,BAIXO RISCO,9124,307.0
+Rental Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Rental Services,Killarney,7.1,BAIXO RISCO,3121,93.0
+Rental Services,Kitsilano,45.8,BAIXO RISCO,11491,318.0
+Rental Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Rental Services,Mount Pleasant,38.4,BAIXO RISCO,10967,351.0
+Rental Services,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Rental Services,Out of Town,2.7,BAIXO RISCO,2234,78.0
+Rental Services,Renfrew-Collingwood,47.2,BAIXO RISCO,7367,242.0
+Rental Services,Riley Park,60.0,ALTO RISCO,5628,186.0
+Rental Services,Shaughnessy,18.6,BAIXO RISCO,1194,60.0
+Rental Services,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Rental Services,Strathcona,77.7,ALTO RISCO,5441,225.0
+Rental Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Rental Services,UBC,1.9,BAIXO RISCO,32,1.0
+Rental Services,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Rental Services,West End,0.0,BAIXO RISCO,9238,271.0
+Rental Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Restaurant,Arbutus-Ridge,30.9,BAIXO RISCO,2373,84.0
+Restaurant,Downtown,45.8,BAIXO RISCO,41071,1217.0
+Restaurant,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Restaurant,Fairview,42.5,BAIXO RISCO,13609,329.0
+Restaurant,Grandview-Woodland,30.3,BAIXO RISCO,7426,243.0
+Restaurant,Hastings-Sunrise,19.9,BAIXO RISCO,5798,202.0
+Restaurant,Kensington-Cedar Cottage,28.6,BAIXO RISCO,9124,307.0
+Restaurant,Kerrisdale,41.6,BAIXO RISCO,2320,74.0
+Restaurant,Killarney,52.7,ALTO RISCO,3121,93.0
+Restaurant,Kitsilano,34.0,BAIXO RISCO,11491,318.0
+Restaurant,Marpole,22.9,BAIXO RISCO,6010,213.0
+Restaurant,Mount Pleasant,39.0,BAIXO RISCO,10967,351.0
+Restaurant,Oakridge,45.4,BAIXO RISCO,1889,79.0
+Restaurant,Out of Town,25.9,BAIXO RISCO,2234,78.0
+Restaurant,Renfrew-Collingwood,40.9,BAIXO RISCO,7367,242.0
+Restaurant,Riley Park,23.0,BAIXO RISCO,5628,186.0
+Restaurant,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Restaurant,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Restaurant,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Restaurant,Sunset,20.6,BAIXO RISCO,6421,212.0
+Restaurant,UBC,27.6,BAIXO RISCO,32,1.0
+Restaurant,Victoria-Fraserview,46.6,BAIXO RISCO,3604,137.0
+Restaurant,West End,44.2,BAIXO RISCO,9238,271.0
+Restaurant,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Retail Dealer,Arbutus-Ridge,58.4,ALTO RISCO,2373,84.0
+Retail Dealer,Downtown,42.2,BAIXO RISCO,41071,1217.0
+Retail Dealer,Dunbar-Southlands,34.0,BAIXO RISCO,2993,123.0
+Retail Dealer,Fairview,45.3,BAIXO RISCO,13609,329.0
+Retail Dealer,Grandview-Woodland,58.6,ALTO RISCO,7426,243.0
+Retail Dealer,Hastings-Sunrise,53.6,ALTO RISCO,5798,202.0
+Retail Dealer,Kensington-Cedar Cottage,48.5,BAIXO RISCO,9124,307.0
+Retail Dealer,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Retail Dealer,Killarney,55.0,ALTO RISCO,3121,93.0
+Retail Dealer,Kitsilano,38.4,BAIXO RISCO,11491,318.0
+Retail Dealer,Marpole,62.5,ALTO RISCO,6010,213.0
+Retail Dealer,Mount Pleasant,42.2,BAIXO RISCO,10967,351.0
+Retail Dealer,Oakridge,69.7,ALTO RISCO,1889,79.0
+Retail Dealer,Out of Town,46.0,BAIXO RISCO,2234,78.0
+Retail Dealer,Renfrew-Collingwood,39.4,BAIXO RISCO,7367,242.0
+Retail Dealer,Riley Park,28.6,BAIXO RISCO,5628,186.0
+Retail Dealer,Shaughnessy,64.4,ALTO RISCO,1194,60.0
+Retail Dealer,South Cambie,51.5,ALTO RISCO,1863,58.0
+Retail Dealer,Strathcona,37.8,BAIXO RISCO,5441,225.0
+Retail Dealer,Sunset,64.3,ALTO RISCO,6421,212.0
+Retail Dealer,UBC,36.9,BAIXO RISCO,32,1.0
+Retail Dealer,Victoria-Fraserview,47.9,BAIXO RISCO,3604,137.0
+Retail Dealer,West End,44.4,BAIXO RISCO,9238,271.0
+Retail Dealer,West Point Grey,34.6,BAIXO RISCO,2158,91.0
+Retail Dealer - Cannabis,Arbutus-Ridge,1.4,BAIXO RISCO,2373,84.0
+Retail Dealer - Cannabis,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Retail Dealer - Cannabis,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Retail Dealer - Cannabis,Fairview,0.0,BAIXO RISCO,13609,329.0
+Retail Dealer - Cannabis,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Retail Dealer - Cannabis,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Retail Dealer - Cannabis,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Retail Dealer - Cannabis,Kerrisdale,4.8,BAIXO RISCO,2320,74.0
+Retail Dealer - Cannabis,Killarney,0.0,BAIXO RISCO,3121,93.0
+Retail Dealer - Cannabis,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Retail Dealer - Cannabis,Marpole,0.0,BAIXO RISCO,6010,213.0
+Retail Dealer - Cannabis,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Retail Dealer - Cannabis,Oakridge,12.8,BAIXO RISCO,1889,79.0
+Retail Dealer - Cannabis,Out of Town,9.6,BAIXO RISCO,2234,78.0
+Retail Dealer - Cannabis,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Retail Dealer - Cannabis,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Retail Dealer - Cannabis,Shaughnessy,7.8,BAIXO RISCO,1194,60.0
+Retail Dealer - Cannabis,South Cambie,3.9,BAIXO RISCO,1863,58.0
+Retail Dealer - Cannabis,Strathcona,8.5,BAIXO RISCO,5441,225.0
+Retail Dealer - Cannabis,Sunset,0.0,BAIXO RISCO,6421,212.0
+Retail Dealer - Cannabis,UBC,4.8,BAIXO RISCO,32,1.0
+Retail Dealer - Cannabis,Victoria-Fraserview,55.1,ALTO RISCO,3604,137.0
+Retail Dealer - Cannabis,West End,51.3,ALTO RISCO,9238,271.0
+Retail Dealer - Cannabis,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Retail Dealer - Food,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Retail Dealer - Food,Downtown,63.9,ALTO RISCO,41071,1217.0
+Retail Dealer - Food,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Retail Dealer - Food,Fairview,51.1,ALTO RISCO,13609,329.0
+Retail Dealer - Food,Grandview-Woodland,55.1,ALTO RISCO,7426,243.0
+Retail Dealer - Food,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Retail Dealer - Food,Kensington-Cedar Cottage,55.1,ALTO RISCO,9124,307.0
+Retail Dealer - Food,Kerrisdale,36.6,BAIXO RISCO,2320,74.0
+Retail Dealer - Food,Killarney,34.4,BAIXO RISCO,3121,93.0
+Retail Dealer - Food,Kitsilano,75.6,ALTO RISCO,11491,318.0
+Retail Dealer - Food,Marpole,27.0,BAIXO RISCO,6010,213.0
+Retail Dealer - Food,Mount Pleasant,42.1,BAIXO RISCO,10967,351.0
+Retail Dealer - Food,Oakridge,50.0,ALTO RISCO,1889,79.0
+Retail Dealer - Food,Out of Town,2.1,BAIXO RISCO,2234,78.0
+Retail Dealer - Food,Renfrew-Collingwood,20.5,BAIXO RISCO,7367,242.0
+Retail Dealer - Food,Riley Park,44.9,BAIXO RISCO,5628,186.0
+Retail Dealer - Food,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Retail Dealer - Food,South Cambie,46.5,BAIXO RISCO,1863,58.0
+Retail Dealer - Food,Strathcona,32.2,BAIXO RISCO,5441,225.0
+Retail Dealer - Food,Sunset,34.4,BAIXO RISCO,6421,212.0
+Retail Dealer - Food,UBC,30.1,BAIXO RISCO,32,1.0
+Retail Dealer - Food,Victoria-Fraserview,27.5,BAIXO RISCO,3604,137.0
+Retail Dealer - Food,West End,63.9,ALTO RISCO,9238,271.0
+Retail Dealer - Food,West Point Grey,47.1,BAIXO RISCO,2158,91.0
+Retail Dealer - Used Goods,Arbutus-Ridge,7.3,BAIXO RISCO,2373,84.0
+Retail Dealer - Used Goods,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Retail Dealer - Used Goods,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Retail Dealer - Used Goods,Fairview,0.0,BAIXO RISCO,13609,329.0
+Retail Dealer - Used Goods,Grandview-Woodland,36.4,BAIXO RISCO,7426,243.0
+Retail Dealer - Used Goods,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Retail Dealer - Used Goods,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Retail Dealer - Used Goods,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Retail Dealer - Used Goods,Killarney,3.8,BAIXO RISCO,3121,93.0
+Retail Dealer - Used Goods,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Retail Dealer - Used Goods,Marpole,0.0,BAIXO RISCO,6010,213.0
+Retail Dealer - Used Goods,Mount Pleasant,33.2,BAIXO RISCO,10967,351.0
+Retail Dealer - Used Goods,Oakridge,14.3,BAIXO RISCO,1889,79.0
+Retail Dealer - Used Goods,Out of Town,11.7,BAIXO RISCO,2234,78.0
+Retail Dealer - Used Goods,Renfrew-Collingwood,0.6,BAIXO RISCO,7367,242.0
+Retail Dealer - Used Goods,Riley Park,37.5,BAIXO RISCO,5628,186.0
+Retail Dealer - Used Goods,Shaughnessy,0.0,BAIXO RISCO,1194,60.0
+Retail Dealer - Used Goods,South Cambie,11.5,BAIXO RISCO,1863,58.0
+Retail Dealer - Used Goods,Strathcona,39.2,BAIXO RISCO,5441,225.0
+Retail Dealer - Used Goods,Sunset,63.8,ALTO RISCO,6421,212.0
+Retail Dealer - Used Goods,UBC,8.5,BAIXO RISCO,32,1.0
+Retail Dealer - Used Goods,Victoria-Fraserview,0.7,BAIXO RISCO,3604,137.0
+Retail Dealer - Used Goods,West End,44.5,BAIXO RISCO,9238,271.0
+Retail Dealer - Used Goods,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Security Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Security Services,Downtown,29.0,BAIXO RISCO,41071,1217.0
+Security Services,Dunbar-Southlands,7.0,BAIXO RISCO,2993,123.0
+Security Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Security Services,Grandview-Woodland,0.5,BAIXO RISCO,7426,243.0
+Security Services,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Security Services,Kensington-Cedar Cottage,57.5,ALTO RISCO,9124,307.0
+Security Services,Kerrisdale,10.5,BAIXO RISCO,2320,74.0
+Security Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Security Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Security Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Security Services,Mount Pleasant,73.2,ALTO RISCO,10967,351.0
+Security Services,Oakridge,16.6,BAIXO RISCO,1889,79.0
+Security Services,Out of Town,0.5,BAIXO RISCO,2234,78.0
+Security Services,Renfrew-Collingwood,0.3,BAIXO RISCO,7367,242.0
+Security Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Security Services,Shaughnessy,11.0,BAIXO RISCO,1194,60.0
+Security Services,South Cambie,13.6,BAIXO RISCO,1863,58.0
+Security Services,Strathcona,54.3,ALTO RISCO,5441,225.0
+Security Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Security Services,UBC,5.4,BAIXO RISCO,32,1.0
+Security Services,Victoria-Fraserview,0.3,BAIXO RISCO,3604,137.0
+Security Services,West End,0.3,BAIXO RISCO,9238,271.0
+Security Services,West Point Grey,9.2,BAIXO RISCO,2158,91.0
+Short-term Rental Operator,Arbutus-Ridge,77.2,ALTO RISCO,2373,84.0
+Short-term Rental Operator,Downtown,78.2,ALTO RISCO,41071,1217.0
+Short-term Rental Operator,Dunbar-Southlands,79.7,ALTO RISCO,2993,123.0
+Short-term Rental Operator,Fairview,87.7,ALTO RISCO,13609,329.0
+Short-term Rental Operator,Grandview-Woodland,78.8,ALTO RISCO,7426,243.0
+Short-term Rental Operator,Hastings-Sunrise,80.0,ALTO RISCO,5798,202.0
+Short-term Rental Operator,Kensington-Cedar Cottage,79.6,ALTO RISCO,9124,307.0
+Short-term Rental Operator,Kerrisdale,79.0,ALTO RISCO,2320,74.0
+Short-term Rental Operator,Killarney,73.4,ALTO RISCO,3121,93.0
+Short-term Rental Operator,Kitsilano,77.8,ALTO RISCO,11491,318.0
+Short-term Rental Operator,Marpole,75.5,ALTO RISCO,6010,213.0
+Short-term Rental Operator,Mount Pleasant,82.8,ALTO RISCO,10967,351.0
+Short-term Rental Operator,Oakridge,77.8,ALTO RISCO,1889,79.0
+Short-term Rental Operator,Out of Town,75.0,ALTO RISCO,2234,78.0
+Short-term Rental Operator,Renfrew-Collingwood,68.4,ALTO RISCO,7367,242.0
+Short-term Rental Operator,Riley Park,80.1,ALTO RISCO,5628,186.0
+Short-term Rental Operator,Shaughnessy,82.1,ALTO RISCO,1194,60.0
+Short-term Rental Operator,South Cambie,85.0,ALTO RISCO,1863,58.0
+Short-term Rental Operator,Strathcona,78.1,ALTO RISCO,5441,225.0
+Short-term Rental Operator,Sunset,80.7,ALTO RISCO,6421,212.0
+Short-term Rental Operator,UBC,78.2,ALTO RISCO,32,1.0
+Short-term Rental Operator,Victoria-Fraserview,73.7,ALTO RISCO,3604,137.0
+Short-term Rental Operator,West End,93.0,ALTO RISCO,9238,271.0
+Short-term Rental Operator,West Point Grey,83.8,ALTO RISCO,2158,91.0
+Soliciting For Charity,Arbutus-Ridge,11.3,BAIXO RISCO,2373,84.0
+Soliciting For Charity,Downtown,31.5,BAIXO RISCO,41071,1217.0
+Soliciting For Charity,Dunbar-Southlands,6.7,BAIXO RISCO,2993,123.0
+Soliciting For Charity,Fairview,23.6,BAIXO RISCO,13609,329.0
+Soliciting For Charity,Grandview-Woodland,15.2,BAIXO RISCO,7426,243.0
+Soliciting For Charity,Hastings-Sunrise,14.9,BAIXO RISCO,5798,202.0
+Soliciting For Charity,Kensington-Cedar Cottage,19.5,BAIXO RISCO,9124,307.0
+Soliciting For Charity,Kerrisdale,12.2,BAIXO RISCO,2320,74.0
+Soliciting For Charity,Killarney,10.9,BAIXO RISCO,3121,93.0
+Soliciting For Charity,Kitsilano,10.1,BAIXO RISCO,11491,318.0
+Soliciting For Charity,Marpole,33.1,BAIXO RISCO,6010,213.0
+Soliciting For Charity,Mount Pleasant,10.7,BAIXO RISCO,10967,351.0
+Soliciting For Charity,Oakridge,17.4,BAIXO RISCO,1889,79.0
+Soliciting For Charity,Out of Town,22.2,BAIXO RISCO,2234,78.0
+Soliciting For Charity,Renfrew-Collingwood,22.6,BAIXO RISCO,7367,242.0
+Soliciting For Charity,Riley Park,16.6,BAIXO RISCO,5628,186.0
+Soliciting For Charity,Shaughnessy,11.9,BAIXO RISCO,1194,60.0
+Soliciting For Charity,South Cambie,15.7,BAIXO RISCO,1863,58.0
+Soliciting For Charity,Strathcona,2.8,BAIXO RISCO,5441,225.0
+Soliciting For Charity,Sunset,19.8,BAIXO RISCO,6421,212.0
+Soliciting For Charity,UBC,6.9,BAIXO RISCO,32,1.0
+Soliciting For Charity,Victoria-Fraserview,24.2,BAIXO RISCO,3604,137.0
+Soliciting For Charity,West End,20.4,BAIXO RISCO,9238,271.0
+Soliciting For Charity,West Point Grey,9.8,BAIXO RISCO,2158,91.0
+Special Events,Arbutus-Ridge,25.9,BAIXO RISCO,2373,84.0
+Special Events,Downtown,66.5,ALTO RISCO,41071,1217.0
+Special Events,Dunbar-Southlands,1.1,BAIXO RISCO,2993,123.0
+Special Events,Fairview,0.0,BAIXO RISCO,13609,329.0
+Special Events,Grandview-Woodland,70.4,ALTO RISCO,7426,243.0
+Special Events,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Special Events,Kensington-Cedar Cottage,2.4,BAIXO RISCO,9124,307.0
+Special Events,Kerrisdale,12.1,BAIXO RISCO,2320,74.0
+Special Events,Killarney,11.0,BAIXO RISCO,3121,93.0
+Special Events,Kitsilano,78.6,ALTO RISCO,11491,318.0
+Special Events,Marpole,65.8,ALTO RISCO,6010,213.0
+Special Events,Mount Pleasant,78.5,ALTO RISCO,10967,351.0
+Special Events,Oakridge,25.6,BAIXO RISCO,1889,79.0
+Special Events,Out of Town,27.5,BAIXO RISCO,2234,78.0
+Special Events,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Special Events,Riley Park,26.9,BAIXO RISCO,5628,186.0
+Special Events,Shaughnessy,0.7,BAIXO RISCO,1194,60.0
+Special Events,South Cambie,13.7,BAIXO RISCO,1863,58.0
+Special Events,Strathcona,77.0,ALTO RISCO,5441,225.0
+Special Events,Sunset,47.4,BAIXO RISCO,6421,212.0
+Special Events,UBC,27.4,BAIXO RISCO,32,1.0
+Special Events,Victoria-Fraserview,26.2,BAIXO RISCO,3604,137.0
+Special Events,West End,4.7,BAIXO RISCO,9238,271.0
+Special Events,West Point Grey,25.3,BAIXO RISCO,2158,91.0
+Sport and Fitness Instruction,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Sport and Fitness Instruction,Downtown,18.6,BAIXO RISCO,41071,1217.0
+Sport and Fitness Instruction,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Sport and Fitness Instruction,Fairview,47.2,BAIXO RISCO,13609,329.0
+Sport and Fitness Instruction,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Sport and Fitness Instruction,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Sport and Fitness Instruction,Kensington-Cedar Cottage,33.1,BAIXO RISCO,9124,307.0
+Sport and Fitness Instruction,Kerrisdale,52.8,ALTO RISCO,2320,74.0
+Sport and Fitness Instruction,Killarney,0.0,BAIXO RISCO,3121,93.0
+Sport and Fitness Instruction,Kitsilano,52.8,ALTO RISCO,11491,318.0
+Sport and Fitness Instruction,Marpole,0.0,BAIXO RISCO,6010,213.0
+Sport and Fitness Instruction,Mount Pleasant,50.7,ALTO RISCO,10967,351.0
+Sport and Fitness Instruction,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Sport and Fitness Instruction,Out of Town,65.6,ALTO RISCO,2234,78.0
+Sport and Fitness Instruction,Renfrew-Collingwood,42.9,BAIXO RISCO,7367,242.0
+Sport and Fitness Instruction,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Sport and Fitness Instruction,Shaughnessy,2.7,BAIXO RISCO,1194,60.0
+Sport and Fitness Instruction,South Cambie,56.0,ALTO RISCO,1863,58.0
+Sport and Fitness Instruction,Strathcona,62.4,ALTO RISCO,5441,225.0
+Sport and Fitness Instruction,Sunset,0.0,BAIXO RISCO,6421,212.0
+Sport and Fitness Instruction,UBC,5.1,BAIXO RISCO,32,1.0
+Sport and Fitness Instruction,Victoria-Fraserview,0.0,BAIXO RISCO,3604,137.0
+Sport and Fitness Instruction,West End,0.0,BAIXO RISCO,9238,271.0
+Sport and Fitness Instruction,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Street Vendor,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Street Vendor,Downtown,84.3,ALTO RISCO,41071,1217.0
+Street Vendor,Dunbar-Southlands,41.2,BAIXO RISCO,2993,123.0
+Street Vendor,Fairview,78.7,ALTO RISCO,13609,329.0
+Street Vendor,Grandview-Woodland,45.3,BAIXO RISCO,7426,243.0
+Street Vendor,Hastings-Sunrise,0.9,BAIXO RISCO,5798,202.0
+Street Vendor,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Street Vendor,Kerrisdale,1.9,BAIXO RISCO,2320,74.0
+Street Vendor,Killarney,80.4,ALTO RISCO,3121,93.0
+Street Vendor,Kitsilano,91.3,ALTO RISCO,11491,318.0
+Street Vendor,Marpole,0.0,BAIXO RISCO,6010,213.0
+Street Vendor,Mount Pleasant,58.6,ALTO RISCO,10967,351.0
+Street Vendor,Oakridge,38.9,BAIXO RISCO,1889,79.0
+Street Vendor,Out of Town,86.6,ALTO RISCO,2234,78.0
+Street Vendor,Renfrew-Collingwood,78.5,ALTO RISCO,7367,242.0
+Street Vendor,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Street Vendor,Shaughnessy,40.5,BAIXO RISCO,1194,60.0
+Street Vendor,South Cambie,46.8,BAIXO RISCO,1863,58.0
+Street Vendor,Strathcona,61.0,ALTO RISCO,5441,225.0
+Street Vendor,Sunset,72.3,ALTO RISCO,6421,212.0
+Street Vendor,UBC,44.7,BAIXO RISCO,32,1.0
+Street Vendor,Victoria-Fraserview,51.4,ALTO RISCO,3604,137.0
+Street Vendor,West End,0.0,BAIXO RISCO,9238,271.0
+Street Vendor,West Point Grey,42.6,BAIXO RISCO,2158,91.0
+Temp Liquor Licence Amendment,Arbutus-Ridge,40.2,BAIXO RISCO,2373,84.0
+Temp Liquor Licence Amendment,Downtown,74.0,ALTO RISCO,41071,1217.0
+Temp Liquor Licence Amendment,Dunbar-Southlands,16.6,BAIXO RISCO,2993,123.0
+Temp Liquor Licence Amendment,Fairview,74.1,ALTO RISCO,13609,329.0
+Temp Liquor Licence Amendment,Grandview-Woodland,76.9,ALTO RISCO,7426,243.0
+Temp Liquor Licence Amendment,Hastings-Sunrise,50.3,ALTO RISCO,5798,202.0
+Temp Liquor Licence Amendment,Kensington-Cedar Cottage,42.1,BAIXO RISCO,9124,307.0
+Temp Liquor Licence Amendment,Kerrisdale,41.3,BAIXO RISCO,2320,74.0
+Temp Liquor Licence Amendment,Killarney,42.0,BAIXO RISCO,3121,93.0
+Temp Liquor Licence Amendment,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Temp Liquor Licence Amendment,Marpole,16.2,BAIXO RISCO,6010,213.0
+Temp Liquor Licence Amendment,Mount Pleasant,38.3,BAIXO RISCO,10967,351.0
+Temp Liquor Licence Amendment,Oakridge,38.8,BAIXO RISCO,1889,79.0
+Temp Liquor Licence Amendment,Out of Town,41.3,BAIXO RISCO,2234,78.0
+Temp Liquor Licence Amendment,Renfrew-Collingwood,41.9,BAIXO RISCO,7367,242.0
+Temp Liquor Licence Amendment,Riley Park,52.9,ALTO RISCO,5628,186.0
+Temp Liquor Licence Amendment,Shaughnessy,40.5,BAIXO RISCO,1194,60.0
+Temp Liquor Licence Amendment,South Cambie,40.4,BAIXO RISCO,1863,58.0
+Temp Liquor Licence Amendment,Strathcona,84.1,ALTO RISCO,5441,225.0
+Temp Liquor Licence Amendment,Sunset,43.1,BAIXO RISCO,6421,212.0
+Temp Liquor Licence Amendment,UBC,41.9,BAIXO RISCO,32,1.0
+Temp Liquor Licence Amendment,Victoria-Fraserview,38.5,BAIXO RISCO,3604,137.0
+Temp Liquor Licence Amendment,West End,37.2,BAIXO RISCO,9238,271.0
+Temp Liquor Licence Amendment,West Point Grey,38.6,BAIXO RISCO,2158,91.0
+Temporary Filming Company,Arbutus-Ridge,20.9,BAIXO RISCO,2373,84.0
+Temporary Filming Company,Downtown,35.0,BAIXO RISCO,41071,1217.0
+Temporary Filming Company,Dunbar-Southlands,18.6,BAIXO RISCO,2993,123.0
+Temporary Filming Company,Fairview,27.9,BAIXO RISCO,13609,329.0
+Temporary Filming Company,Grandview-Woodland,23.4,BAIXO RISCO,7426,243.0
+Temporary Filming Company,Hastings-Sunrise,23.8,BAIXO RISCO,5798,202.0
+Temporary Filming Company,Kensington-Cedar Cottage,26.2,BAIXO RISCO,9124,307.0
+Temporary Filming Company,Kerrisdale,22.6,BAIXO RISCO,2320,74.0
+Temporary Filming Company,Killarney,22.7,BAIXO RISCO,3121,93.0
+Temporary Filming Company,Kitsilano,28.9,BAIXO RISCO,11491,318.0
+Temporary Filming Company,Marpole,36.1,BAIXO RISCO,6010,213.0
+Temporary Filming Company,Mount Pleasant,32.3,BAIXO RISCO,10967,351.0
+Temporary Filming Company,Oakridge,24.1,BAIXO RISCO,1889,79.0
+Temporary Filming Company,Out of Town,60.3,ALTO RISCO,2234,78.0
+Temporary Filming Company,Renfrew-Collingwood,1.1,BAIXO RISCO,7367,242.0
+Temporary Filming Company,Riley Park,23.8,BAIXO RISCO,5628,186.0
+Temporary Filming Company,Shaughnessy,23.6,BAIXO RISCO,1194,60.0
+Temporary Filming Company,South Cambie,26.7,BAIXO RISCO,1863,58.0
+Temporary Filming Company,Strathcona,33.4,BAIXO RISCO,5441,225.0
+Temporary Filming Company,Sunset,28.4,BAIXO RISCO,6421,212.0
+Temporary Filming Company,UBC,22.9,BAIXO RISCO,32,1.0
+Temporary Filming Company,Victoria-Fraserview,27.6,BAIXO RISCO,3604,137.0
+Temporary Filming Company,West End,28.0,BAIXO RISCO,9238,271.0
+Temporary Filming Company,West Point Grey,20.6,BAIXO RISCO,2158,91.0
+Theatre,Arbutus-Ridge,15.4,BAIXO RISCO,2373,84.0
+Theatre,Downtown,44.3,BAIXO RISCO,41071,1217.0
+Theatre,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Theatre,Fairview,0.0,BAIXO RISCO,13609,329.0
+Theatre,Grandview-Woodland,7.1,BAIXO RISCO,7426,243.0
+Theatre,Hastings-Sunrise,18.4,BAIXO RISCO,5798,202.0
+Theatre,Kensington-Cedar Cottage,0.8,BAIXO RISCO,9124,307.0
+Theatre,Kerrisdale,18.5,BAIXO RISCO,2320,74.0
+Theatre,Killarney,17.7,BAIXO RISCO,3121,93.0
+Theatre,Kitsilano,3.0,BAIXO RISCO,11491,318.0
+Theatre,Marpole,1.1,BAIXO RISCO,6010,213.0
+Theatre,Mount Pleasant,84.5,ALTO RISCO,10967,351.0
+Theatre,Oakridge,20.7,BAIXO RISCO,1889,79.0
+Theatre,Out of Town,21.7,BAIXO RISCO,2234,78.0
+Theatre,Renfrew-Collingwood,23.4,BAIXO RISCO,7367,242.0
+Theatre,Riley Park,0.5,BAIXO RISCO,5628,186.0
+Theatre,Shaughnessy,17.1,BAIXO RISCO,1194,60.0
+Theatre,South Cambie,17.5,BAIXO RISCO,1863,58.0
+Theatre,Strathcona,2.8,BAIXO RISCO,5441,225.0
+Theatre,Sunset,20.9,BAIXO RISCO,6421,212.0
+Theatre,UBC,16.9,BAIXO RISCO,32,1.0
+Theatre,Victoria-Fraserview,23.9,BAIXO RISCO,3604,137.0
+Theatre,West End,20.4,BAIXO RISCO,9238,271.0
+Theatre,West Point Grey,17.9,BAIXO RISCO,2158,91.0
+Tourism Services,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Tourism Services,Downtown,58.4,ALTO RISCO,41071,1217.0
+Tourism Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Tourism Services,Fairview,22.3,BAIXO RISCO,13609,329.0
+Tourism Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Tourism Services,Hastings-Sunrise,51.6,ALTO RISCO,5798,202.0
+Tourism Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Tourism Services,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Tourism Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Tourism Services,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Tourism Services,Marpole,0.0,BAIXO RISCO,6010,213.0
+Tourism Services,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Tourism Services,Oakridge,0.3,BAIXO RISCO,1889,79.0
+Tourism Services,Out of Town,66.8,ALTO RISCO,2234,78.0
+Tourism Services,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Tourism Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Tourism Services,Shaughnessy,64.7,ALTO RISCO,1194,60.0
+Tourism Services,South Cambie,0.9,BAIXO RISCO,1863,58.0
+Tourism Services,Strathcona,59.0,ALTO RISCO,5441,225.0
+Tourism Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Tourism Services,UBC,14.3,BAIXO RISCO,32,1.0
+Tourism Services,Victoria-Fraserview,45.7,BAIXO RISCO,3604,137.0
+Tourism Services,West End,58.6,ALTO RISCO,9238,271.0
+Tourism Services,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Trade Contractor,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Trade Contractor,Downtown,28.0,BAIXO RISCO,41071,1217.0
+Trade Contractor,Dunbar-Southlands,63.2,ALTO RISCO,2993,123.0
+Trade Contractor,Fairview,56.2,ALTO RISCO,13609,329.0
+Trade Contractor,Grandview-Woodland,25.4,BAIXO RISCO,7426,243.0
+Trade Contractor,Hastings-Sunrise,16.7,BAIXO RISCO,5798,202.0
+Trade Contractor,Kensington-Cedar Cottage,36.8,BAIXO RISCO,9124,307.0
+Trade Contractor,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Trade Contractor,Killarney,22.4,BAIXO RISCO,3121,93.0
+Trade Contractor,Kitsilano,27.2,BAIXO RISCO,11491,318.0
+Trade Contractor,Marpole,62.2,ALTO RISCO,6010,213.0
+Trade Contractor,Mount Pleasant,21.4,BAIXO RISCO,10967,351.0
+Trade Contractor,Oakridge,0.0,BAIXO RISCO,1889,79.0
+Trade Contractor,Out of Town,38.7,BAIXO RISCO,2234,78.0
+Trade Contractor,Renfrew-Collingwood,55.6,ALTO RISCO,7367,242.0
+Trade Contractor,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Trade Contractor,Shaughnessy,56.8,ALTO RISCO,1194,60.0
+Trade Contractor,South Cambie,0.0,BAIXO RISCO,1863,58.0
+Trade Contractor,Strathcona,43.0,BAIXO RISCO,5441,225.0
+Trade Contractor,Sunset,41.9,BAIXO RISCO,6421,212.0
+Trade Contractor,UBC,6.2,BAIXO RISCO,32,1.0
+Trade Contractor,Victoria-Fraserview,65.2,ALTO RISCO,3604,137.0
+Trade Contractor,West End,51.6,ALTO RISCO,9238,271.0
+Trade Contractor,West Point Grey,0.0,BAIXO RISCO,2158,91.0
+Transportation and Support Services,Arbutus-Ridge,8.1,BAIXO RISCO,2373,84.0
+Transportation and Support Services,Downtown,42.8,BAIXO RISCO,41071,1217.0
+Transportation and Support Services,Dunbar-Southlands,0.3,BAIXO RISCO,2993,123.0
+Transportation and Support Services,Fairview,0.0,BAIXO RISCO,13609,329.0
+Transportation and Support Services,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Transportation and Support Services,Hastings-Sunrise,4.9,BAIXO RISCO,5798,202.0
+Transportation and Support Services,Kensington-Cedar Cottage,6.6,BAIXO RISCO,9124,307.0
+Transportation and Support Services,Kerrisdale,10.6,BAIXO RISCO,2320,74.0
+Transportation and Support Services,Killarney,0.0,BAIXO RISCO,3121,93.0
+Transportation and Support Services,Kitsilano,8.4,BAIXO RISCO,11491,318.0
+Transportation and Support Services,Marpole,9.1,BAIXO RISCO,6010,213.0
+Transportation and Support Services,Mount Pleasant,2.3,BAIXO RISCO,10967,351.0
+Transportation and Support Services,Oakridge,0.9,BAIXO RISCO,1889,79.0
+Transportation and Support Services,Out of Town,0.4,BAIXO RISCO,2234,78.0
+Transportation and Support Services,Renfrew-Collingwood,0.5,BAIXO RISCO,7367,242.0
+Transportation and Support Services,Riley Park,3.5,BAIXO RISCO,5628,186.0
+Transportation and Support Services,Shaughnessy,0.3,BAIXO RISCO,1194,60.0
+Transportation and Support Services,South Cambie,10.3,BAIXO RISCO,1863,58.0
+Transportation and Support Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Transportation and Support Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Transportation and Support Services,UBC,9.7,BAIXO RISCO,32,1.0
+Transportation and Support Services,Victoria-Fraserview,77.2,ALTO RISCO,3604,137.0
+Transportation and Support Services,West End,54.8,ALTO RISCO,9238,271.0
+Transportation and Support Services,West Point Grey,7.6,BAIXO RISCO,2158,91.0
+Urban Farm Class A,Arbutus-Ridge,41.9,BAIXO RISCO,2373,84.0
+Urban Farm Class A,Downtown,76.0,ALTO RISCO,41071,1217.0
+Urban Farm Class A,Dunbar-Southlands,34.2,BAIXO RISCO,2993,123.0
+Urban Farm Class A,Fairview,40.2,BAIXO RISCO,13609,329.0
+Urban Farm Class A,Grandview-Woodland,42.3,BAIXO RISCO,7426,243.0
+Urban Farm Class A,Hastings-Sunrise,41.7,BAIXO RISCO,5798,202.0
+Urban Farm Class A,Kensington-Cedar Cottage,45.5,BAIXO RISCO,9124,307.0
+Urban Farm Class A,Kerrisdale,42.2,BAIXO RISCO,2320,74.0
+Urban Farm Class A,Killarney,43.7,BAIXO RISCO,3121,93.0
+Urban Farm Class A,Kitsilano,47.4,BAIXO RISCO,11491,318.0
+Urban Farm Class A,Marpole,45.8,BAIXO RISCO,6010,213.0
+Urban Farm Class A,Mount Pleasant,46.7,BAIXO RISCO,10967,351.0
+Urban Farm Class A,Oakridge,32.4,BAIXO RISCO,1889,79.0
+Urban Farm Class A,Out of Town,47.7,BAIXO RISCO,2234,78.0
+Urban Farm Class A,Renfrew-Collingwood,47.7,BAIXO RISCO,7367,242.0
+Urban Farm Class A,Riley Park,41.0,BAIXO RISCO,5628,186.0
+Urban Farm Class A,Shaughnessy,43.4,BAIXO RISCO,1194,60.0
+Urban Farm Class A,South Cambie,46.5,BAIXO RISCO,1863,58.0
+Urban Farm Class A,Strathcona,40.1,BAIXO RISCO,5441,225.0
+Urban Farm Class A,Sunset,48.0,BAIXO RISCO,6421,212.0
+Urban Farm Class A,UBC,45.2,BAIXO RISCO,32,1.0
+Urban Farm Class A,Victoria-Fraserview,43.5,BAIXO RISCO,3604,137.0
+Urban Farm Class A,West End,57.0,ALTO RISCO,9238,271.0
+Urban Farm Class A,West Point Grey,39.6,BAIXO RISCO,2158,91.0
+Urban Farm Class B,Arbutus-Ridge,43.2,BAIXO RISCO,2373,84.0
+Urban Farm Class B,Downtown,51.1,ALTO RISCO,41071,1217.0
+Urban Farm Class B,Dunbar-Southlands,42.1,BAIXO RISCO,2993,123.0
+Urban Farm Class B,Fairview,41.9,BAIXO RISCO,13609,329.0
+Urban Farm Class B,Grandview-Woodland,44.1,BAIXO RISCO,7426,243.0
+Urban Farm Class B,Hastings-Sunrise,46.5,BAIXO RISCO,5798,202.0
+Urban Farm Class B,Kensington-Cedar Cottage,50.0,ALTO RISCO,9124,307.0
+Urban Farm Class B,Kerrisdale,76.0,ALTO RISCO,2320,74.0
+Urban Farm Class B,Killarney,45.4,BAIXO RISCO,3121,93.0
+Urban Farm Class B,Kitsilano,47.0,BAIXO RISCO,11491,318.0
+Urban Farm Class B,Marpole,50.9,ALTO RISCO,6010,213.0
+Urban Farm Class B,Mount Pleasant,51.6,ALTO RISCO,10967,351.0
+Urban Farm Class B,Oakridge,35.0,BAIXO RISCO,1889,79.0
+Urban Farm Class B,Out of Town,50.0,ALTO RISCO,2234,78.0
+Urban Farm Class B,Renfrew-Collingwood,50.9,ALTO RISCO,7367,242.0
+Urban Farm Class B,Riley Park,46.7,BAIXO RISCO,5628,186.0
+Urban Farm Class B,Shaughnessy,44.5,BAIXO RISCO,1194,60.0
+Urban Farm Class B,South Cambie,47.5,BAIXO RISCO,1863,58.0
+Urban Farm Class B,Strathcona,43.9,BAIXO RISCO,5441,225.0
+Urban Farm Class B,Sunset,49.9,BAIXO RISCO,6421,212.0
+Urban Farm Class B,UBC,48.9,BAIXO RISCO,32,1.0
+Urban Farm Class B,Victoria-Fraserview,42.9,BAIXO RISCO,3604,137.0
+Urban Farm Class B,West End,53.4,ALTO RISCO,9238,271.0
+Urban Farm Class B,West Point Grey,43.8,BAIXO RISCO,2158,91.0
+Vehicle Repair Detailing and Washing Services,Arbutus-Ridge,0.9,BAIXO RISCO,2373,84.0
+Vehicle Repair Detailing and Washing Services,Downtown,83.3,ALTO RISCO,41071,1217.0
+Vehicle Repair Detailing and Washing Services,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Vehicle Repair Detailing and Washing Services,Fairview,39.4,BAIXO RISCO,13609,329.0
+Vehicle Repair Detailing and Washing Services,Grandview-Woodland,28.0,BAIXO RISCO,7426,243.0
+Vehicle Repair Detailing and Washing Services,Hastings-Sunrise,56.6,ALTO RISCO,5798,202.0
+Vehicle Repair Detailing and Washing Services,Kensington-Cedar Cottage,29.9,BAIXO RISCO,9124,307.0
+Vehicle Repair Detailing and Washing Services,Kerrisdale,22.8,BAIXO RISCO,2320,74.0
+Vehicle Repair Detailing and Washing Services,Killarney,50.4,ALTO RISCO,3121,93.0
+Vehicle Repair Detailing and Washing Services,Kitsilano,44.2,BAIXO RISCO,11491,318.0
+Vehicle Repair Detailing and Washing Services,Marpole,26.5,BAIXO RISCO,6010,213.0
+Vehicle Repair Detailing and Washing Services,Mount Pleasant,35.6,BAIXO RISCO,10967,351.0
+Vehicle Repair Detailing and Washing Services,Oakridge,56.7,ALTO RISCO,1889,79.0
+Vehicle Repair Detailing and Washing Services,Out of Town,26.6,BAIXO RISCO,2234,78.0
+Vehicle Repair Detailing and Washing Services,Renfrew-Collingwood,71.1,ALTO RISCO,7367,242.0
+Vehicle Repair Detailing and Washing Services,Riley Park,0.0,BAIXO RISCO,5628,186.0
+Vehicle Repair Detailing and Washing Services,Shaughnessy,2.7,BAIXO RISCO,1194,60.0
+Vehicle Repair Detailing and Washing Services,South Cambie,25.7,BAIXO RISCO,1863,58.0
+Vehicle Repair Detailing and Washing Services,Strathcona,57.9,ALTO RISCO,5441,225.0
+Vehicle Repair Detailing and Washing Services,Sunset,60.9,ALTO RISCO,6421,212.0
+Vehicle Repair Detailing and Washing Services,UBC,24.1,BAIXO RISCO,32,1.0
+Vehicle Repair Detailing and Washing Services,Victoria-Fraserview,91.0,ALTO RISCO,3604,137.0
+Vehicle Repair Detailing and Washing Services,West End,0.0,BAIXO RISCO,9238,271.0
+Vehicle Repair Detailing and Washing Services,West Point Grey,20.4,BAIXO RISCO,2158,91.0
+Venue,Arbutus-Ridge,5.4,BAIXO RISCO,2373,84.0
+Venue,Downtown,36.6,BAIXO RISCO,41071,1217.0
+Venue,Dunbar-Southlands,3.5,BAIXO RISCO,2993,123.0
+Venue,Fairview,0.0,BAIXO RISCO,13609,329.0
+Venue,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Venue,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Venue,Kensington-Cedar Cottage,0.4,BAIXO RISCO,9124,307.0
+Venue,Kerrisdale,7.0,BAIXO RISCO,2320,74.0
+Venue,Killarney,6.4,BAIXO RISCO,3121,93.0
+Venue,Kitsilano,0.6,BAIXO RISCO,11491,318.0
+Venue,Marpole,0.9,BAIXO RISCO,6010,213.0
+Venue,Mount Pleasant,1.9,BAIXO RISCO,10967,351.0
+Venue,Oakridge,16.2,BAIXO RISCO,1889,79.0
+Venue,Out of Town,12.7,BAIXO RISCO,2234,78.0
+Venue,Renfrew-Collingwood,15.9,BAIXO RISCO,7367,242.0
+Venue,Riley Park,1.5,BAIXO RISCO,5628,186.0
+Venue,Shaughnessy,7.7,BAIXO RISCO,1194,60.0
+Venue,South Cambie,10.1,BAIXO RISCO,1863,58.0
+Venue,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Venue,Sunset,9.7,BAIXO RISCO,6421,212.0
+Venue,UBC,4.1,BAIXO RISCO,32,1.0
+Venue,Victoria-Fraserview,14.6,BAIXO RISCO,3604,137.0
+Venue,West End,10.1,BAIXO RISCO,9238,271.0
+Venue,West Point Grey,5.9,BAIXO RISCO,2158,91.0
+Warehouse Operator - Food,Arbutus-Ridge,7.1,BAIXO RISCO,2373,84.0
+Warehouse Operator - Food,Downtown,23.6,BAIXO RISCO,41071,1217.0
+Warehouse Operator - Food,Dunbar-Southlands,5.9,BAIXO RISCO,2993,123.0
+Warehouse Operator - Food,Fairview,19.9,BAIXO RISCO,13609,329.0
+Warehouse Operator - Food,Grandview-Woodland,2.5,BAIXO RISCO,7426,243.0
+Warehouse Operator - Food,Hastings-Sunrise,8.9,BAIXO RISCO,5798,202.0
+Warehouse Operator - Food,Kensington-Cedar Cottage,11.7,BAIXO RISCO,9124,307.0
+Warehouse Operator - Food,Kerrisdale,7.7,BAIXO RISCO,2320,74.0
+Warehouse Operator - Food,Killarney,7.7,BAIXO RISCO,3121,93.0
+Warehouse Operator - Food,Kitsilano,16.3,BAIXO RISCO,11491,318.0
+Warehouse Operator - Food,Marpole,0.0,BAIXO RISCO,6010,213.0
+Warehouse Operator - Food,Mount Pleasant,0.0,BAIXO RISCO,10967,351.0
+Warehouse Operator - Food,Oakridge,16.7,BAIXO RISCO,1889,79.0
+Warehouse Operator - Food,Out of Town,14.4,BAIXO RISCO,2234,78.0
+Warehouse Operator - Food,Renfrew-Collingwood,15.0,BAIXO RISCO,7367,242.0
+Warehouse Operator - Food,Riley Park,11.0,BAIXO RISCO,5628,186.0
+Warehouse Operator - Food,Shaughnessy,7.9,BAIXO RISCO,1194,60.0
+Warehouse Operator - Food,South Cambie,11.9,BAIXO RISCO,1863,58.0
+Warehouse Operator - Food,Strathcona,0.3,BAIXO RISCO,5441,225.0
+Warehouse Operator - Food,Sunset,0.0,BAIXO RISCO,6421,212.0
+Warehouse Operator - Food,UBC,4.2,BAIXO RISCO,32,1.0
+Warehouse Operator - Food,Victoria-Fraserview,16.7,BAIXO RISCO,3604,137.0
+Warehouse Operator - Food,West End,11.5,BAIXO RISCO,9238,271.0
+Warehouse Operator - Food,West Point Grey,6.7,BAIXO RISCO,2158,91.0
+Warehouse Operator - Non-Food,Arbutus-Ridge,6.7,BAIXO RISCO,2373,84.0
+Warehouse Operator - Non-Food,Downtown,2.4,BAIXO RISCO,41071,1217.0
+Warehouse Operator - Non-Food,Dunbar-Southlands,5.3,BAIXO RISCO,2993,123.0
+Warehouse Operator - Non-Food,Fairview,0.7,BAIXO RISCO,13609,329.0
+Warehouse Operator - Non-Food,Grandview-Woodland,0.0,BAIXO RISCO,7426,243.0
+Warehouse Operator - Non-Food,Hastings-Sunrise,0.0,BAIXO RISCO,5798,202.0
+Warehouse Operator - Non-Food,Kensington-Cedar Cottage,10.3,BAIXO RISCO,9124,307.0
+Warehouse Operator - Non-Food,Kerrisdale,8.0,BAIXO RISCO,2320,74.0
+Warehouse Operator - Non-Food,Killarney,1.1,BAIXO RISCO,3121,93.0
+Warehouse Operator - Non-Food,Kitsilano,0.0,BAIXO RISCO,11491,318.0
+Warehouse Operator - Non-Food,Marpole,65.5,ALTO RISCO,6010,213.0
+Warehouse Operator - Non-Food,Mount Pleasant,43.8,BAIXO RISCO,10967,351.0
+Warehouse Operator - Non-Food,Oakridge,16.5,BAIXO RISCO,1889,79.0
+Warehouse Operator - Non-Food,Out of Town,11.4,BAIXO RISCO,2234,78.0
+Warehouse Operator - Non-Food,Renfrew-Collingwood,0.0,BAIXO RISCO,7367,242.0
+Warehouse Operator - Non-Food,Riley Park,12.9,BAIXO RISCO,5628,186.0
+Warehouse Operator - Non-Food,Shaughnessy,9.0,BAIXO RISCO,1194,60.0
+Warehouse Operator - Non-Food,South Cambie,10.2,BAIXO RISCO,1863,58.0
+Warehouse Operator - Non-Food,Strathcona,59.6,ALTO RISCO,5441,225.0
+Warehouse Operator - Non-Food,Sunset,0.0,BAIXO RISCO,6421,212.0
+Warehouse Operator - Non-Food,UBC,5.5,BAIXO RISCO,32,1.0
+Warehouse Operator - Non-Food,Victoria-Fraserview,16.2,BAIXO RISCO,3604,137.0
+Warehouse Operator - Non-Food,West End,11.4,BAIXO RISCO,9238,271.0
+Warehouse Operator - Non-Food,West Point Grey,7.6,BAIXO RISCO,2158,91.0
+Waste Collection and Hauling Services,Arbutus-Ridge,6.9,BAIXO RISCO,2373,84.0
+Waste Collection and Hauling Services,Downtown,0.0,BAIXO RISCO,41071,1217.0
+Waste Collection and Hauling Services,Dunbar-Southlands,5.4,BAIXO RISCO,2993,123.0
+Waste Collection and Hauling Services,Fairview,0.2,BAIXO RISCO,13609,329.0
+Waste Collection and Hauling Services,Grandview-Woodland,3.9,BAIXO RISCO,7426,243.0
+Waste Collection and Hauling Services,Hastings-Sunrise,2.0,BAIXO RISCO,5798,202.0
+Waste Collection and Hauling Services,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Waste Collection and Hauling Services,Kerrisdale,5.2,BAIXO RISCO,2320,74.0
+Waste Collection and Hauling Services,Killarney,1.0,BAIXO RISCO,3121,93.0
+Waste Collection and Hauling Services,Kitsilano,1.8,BAIXO RISCO,11491,318.0
+Waste Collection and Hauling Services,Marpole,23.2,BAIXO RISCO,6010,213.0
+Waste Collection and Hauling Services,Mount Pleasant,3.8,BAIXO RISCO,10967,351.0
+Waste Collection and Hauling Services,Oakridge,2.7,BAIXO RISCO,1889,79.0
+Waste Collection and Hauling Services,Out of Town,0.4,BAIXO RISCO,2234,78.0
+Waste Collection and Hauling Services,Renfrew-Collingwood,49.2,BAIXO RISCO,7367,242.0
+Waste Collection and Hauling Services,Riley Park,10.6,BAIXO RISCO,5628,186.0
+Waste Collection and Hauling Services,Shaughnessy,8.7,BAIXO RISCO,1194,60.0
+Waste Collection and Hauling Services,South Cambie,10.3,BAIXO RISCO,1863,58.0
+Waste Collection and Hauling Services,Strathcona,0.0,BAIXO RISCO,5441,225.0
+Waste Collection and Hauling Services,Sunset,0.0,BAIXO RISCO,6421,212.0
+Waste Collection and Hauling Services,UBC,3.7,BAIXO RISCO,32,1.0
+Waste Collection and Hauling Services,Victoria-Fraserview,0.7,BAIXO RISCO,3604,137.0
+Waste Collection and Hauling Services,West End,9.3,BAIXO RISCO,9238,271.0
+Waste Collection and Hauling Services,West Point Grey,0.4,BAIXO RISCO,2158,91.0
+Wholesale Dealer - Food,Arbutus-Ridge,1.9,BAIXO RISCO,2373,84.0
+Wholesale Dealer - Food,Downtown,74.1,ALTO RISCO,41071,1217.0
+Wholesale Dealer - Food,Dunbar-Southlands,21.4,BAIXO RISCO,2993,123.0
+Wholesale Dealer - Food,Fairview,70.8,ALTO RISCO,13609,329.0
+Wholesale Dealer - Food,Grandview-Woodland,49.2,BAIXO RISCO,7426,243.0
+Wholesale Dealer - Food,Hastings-Sunrise,0.4,BAIXO RISCO,5798,202.0
+Wholesale Dealer - Food,Kensington-Cedar Cottage,0.4,BAIXO RISCO,9124,307.0
+Wholesale Dealer - Food,Kerrisdale,0.4,BAIXO RISCO,2320,74.0
+Wholesale Dealer - Food,Killarney,0.4,BAIXO RISCO,3121,93.0
+Wholesale Dealer - Food,Kitsilano,8.2,BAIXO RISCO,11491,318.0
+Wholesale Dealer - Food,Marpole,72.8,ALTO RISCO,6010,213.0
+Wholesale Dealer - Food,Mount Pleasant,61.9,ALTO RISCO,10967,351.0
+Wholesale Dealer - Food,Oakridge,1.9,BAIXO RISCO,1889,79.0
+Wholesale Dealer - Food,Out of Town,1.7,BAIXO RISCO,2234,78.0
+Wholesale Dealer - Food,Renfrew-Collingwood,40.3,BAIXO RISCO,7367,242.0
+Wholesale Dealer - Food,Riley Park,0.4,BAIXO RISCO,5628,186.0
+Wholesale Dealer - Food,Shaughnessy,60.5,ALTO RISCO,1194,60.0
+Wholesale Dealer - Food,South Cambie,61.2,ALTO RISCO,1863,58.0
+Wholesale Dealer - Food,Strathcona,22.1,BAIXO RISCO,5441,225.0
+Wholesale Dealer - Food,Sunset,32.6,BAIXO RISCO,6421,212.0
+Wholesale Dealer - Food,UBC,23.4,BAIXO RISCO,32,1.0
+Wholesale Dealer - Food,Victoria-Fraserview,52.1,ALTO RISCO,3604,137.0
+Wholesale Dealer - Food,West End,51.4,ALTO RISCO,9238,271.0
+Wholesale Dealer - Food,West Point Grey,6.2,BAIXO RISCO,2158,91.0
+Wholesale Dealer - Non-Food,Arbutus-Ridge,0.0,BAIXO RISCO,2373,84.0
+Wholesale Dealer - Non-Food,Downtown,35.6,BAIXO RISCO,41071,1217.0
+Wholesale Dealer - Non-Food,Dunbar-Southlands,0.0,BAIXO RISCO,2993,123.0
+Wholesale Dealer - Non-Food,Fairview,58.3,ALTO RISCO,13609,329.0
+Wholesale Dealer - Non-Food,Grandview-Woodland,27.4,BAIXO RISCO,7426,243.0
+Wholesale Dealer - Non-Food,Hastings-Sunrise,41.7,BAIXO RISCO,5798,202.0
+Wholesale Dealer - Non-Food,Kensington-Cedar Cottage,0.0,BAIXO RISCO,9124,307.0
+Wholesale Dealer - Non-Food,Kerrisdale,0.0,BAIXO RISCO,2320,74.0
+Wholesale Dealer - Non-Food,Killarney,73.6,ALTO RISCO,3121,93.0
+Wholesale Dealer - Non-Food,Kitsilano,53.7,ALTO RISCO,11491,318.0
+Wholesale Dealer - Non-Food,Marpole,54.8,ALTO RISCO,6010,213.0
+Wholesale Dealer - Non-Food,Mount Pleasant,53.9,ALTO RISCO,10967,351.0
+Wholesale Dealer - Non-Food,Oakridge,0.8,BAIXO RISCO,1889,79.0
+Wholesale Dealer - Non-Food,Out of Town,0.0,BAIXO RISCO,2234,78.0
+Wholesale Dealer - Non-Food,Renfrew-Collingwood,40.3,BAIXO RISCO,7367,242.0
+Wholesale Dealer - Non-Food,Riley Park,41.8,BAIXO RISCO,5628,186.0
+Wholesale Dealer - Non-Food,Shaughnessy,42.0,BAIXO RISCO,1194,60.0
+Wholesale Dealer - Non-Food,South Cambie,24.9,BAIXO RISCO,1863,58.0
+Wholesale Dealer - Non-Food,Strathcona,40.5,BAIXO RISCO,5441,225.0
+Wholesale Dealer - Non-Food,Sunset,43.8,BAIXO RISCO,6421,212.0
+Wholesale Dealer - Non-Food,UBC,23.5,BAIXO RISCO,32,1.0
+Wholesale Dealer - Non-Food,Victoria-Fraserview,52.6,ALTO RISCO,3604,137.0
+Wholesale Dealer - Non-Food,West End,30.2,BAIXO RISCO,9238,271.0
+Wholesale Dealer - Non-Food,West Point Grey,3.0,BAIXO RISCO,2158,91.0

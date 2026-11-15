@@ -1,18 +1,3 @@
-cat << 'EOF' > .gitignore
-# Ambiente virtual
-venv/
 .venv/
-env/
-
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Arquivos de IDE
-.vscode/
-.idea/
-
-# Streamlit
-.streamlit/secrets.toml
-EOF
+dados/business-licences.csv
